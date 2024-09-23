@@ -50,4 +50,18 @@
 - colors 
 
 # Elements
-- 
+- `<play>` : root element
+- `<chara>` : each character that speaks during the play
+    - attributes: `name=""` `gender=""` `dress=""`
+        - dress is primarily for cross-dressing, so this should be "male" or "female"
+- `<act number="">` 
+- `<scene number="">`
+- `<stage>` : stage directions 
+-  `<tone vibe="">` : "positive" "neutral" "negative" 
+    - can expand later
+- `<color>`
+    - `is=""` : here is where you define the color being prescribed
+    - `context=""` : here you'll explain what the context the color is being used in ("purity", "unloyalty", "sin")
+- `<depiction>`
+    - `role=""` ("wife" "mother" "villain" "victim" "smart" "insanity")
+    - `gender=""` ("male" or "female")
