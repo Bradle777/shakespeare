@@ -65,3 +65,18 @@
 - `<depiction>`
     - `role=""` ("wife" "mother" "villain" "victim" "smart" "insanity")
     - `gender=""` ("male" or "female")
+    
+# Terminal instructions:
+- First, you'll have to go into the terminal and make sure you're in the "shakespeare" folder directory. 
+    - For me, it's "cd desktop/shakespeare" 
+    - If you're unsure, you can do cd ./shakespeare (this says: any folder can contain this, just take me to shakespeare)
+- EVERY TIME you go into the terminal, you'll start with "git pull"
+    - This will update anything that your teammates have pushed to the terminal and get you on track before pushing new docs
+- Next, you'll do "git status" 
+    - This will update your own working tree and let you know what changes have been made
+- "git add ."
+    - This adds every file that has been modified or added to the repo
+- "git commit -m "...""
+    - What you put in the "" is the message that will appear on our Github. You'll just add a brief explanation of what you did, for example "markup" (you can go on our Github and see the messages I've done, too)
+- "git push" 
+    - This is what sends everything to everyone else's repo! But, they all will have to "git pull" to see these changes. It's one big cycle :)
