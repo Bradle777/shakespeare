@@ -80,3 +80,4 @@
     - What you put in the "" is the message that will appear on our Github. You'll just add a brief explanation of what you did, for example "markup" (you can go on our Github and see the messages I've done, too)
 - "git push" 
     - This is what sends everything to everyone else's repo! But, they all will have to "git pull" to see these changes. It's one big cycle :)
+- You should do "git status" to make sure everything is clean, but then you should be good!
