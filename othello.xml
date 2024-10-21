@@ -6,6 +6,8 @@
 <title>OTHELLO, THE MOOR OF VENICE</title>
 
 by <author>William Shakespeare</author>
+    
+    <!-- Mark-up thematic areas of focus: beginning/wedding, Iago/plotting, Othello/doubt, end/death -->
 
 <toc>Contents
 
@@ -906,36 +908,35 @@ Be’t at her father’s.
 I’ll not have it so.
 
 <sp chara = "OTHELLO.">OTHELLO.</sp>
-Nor 
-<sp chara = "I.">I.</sp>
+Nor I.
 
 <sp chara = "DESDEMONA.">DESDEMONA.</sp>
 Nor I. I would not there reside,
 To put my father in impatient thoughts,
-By being in his eye. Most gracious duke,
+By being in his eye. <power>Most gracious duke,
 To my unfolding lend your prosperous ear,
 And let me find a charter in your voice
-T’ assist my simpleness.
+T’ assist my simpleness.</power>
 
 <sp chara = "DUKE.">DUKE.</sp>
-What would you, Desdemona?
+What would you, <chara>Desdemona</chara>?
 
 <sp chara = "DESDEMONA.">DESDEMONA.</sp>
-That I did love the <depiction>Moor</depiction> to live with him,
+That I did love the <depiction role = "race">Moor</depiction> to live with him,
 My downright violence and storm of fortunes
 May trumpet to the world: my heart’s subdued
-Even to the very quality of my lord.
-I saw Othello’s visage in his mind,
-And to his honours and his valiant parts
-Did I my soul and fortunes consecrate.
-So that, dear lords, if I be left behind,
+<power role = "patriarchy">Even to the very quality of my lord.</power>
+I saw <chara>Othello</chara>’s visage in his mind,
+<love>And to his honours and his valiant parts
+Did I my soul and fortunes consecrate.</love>
+So that, dear lords, <love>if I be left behind,
 A moth of peace, and he go to the war,
 The rites for which I love him are bereft me,
 And I a heavy interim shall support
-By his dear absence. Let me go with him.
+By his dear absence. Let me go with him.</love>
 
 <sp chara = "OTHELLO.">OTHELLO.</sp>
-Let her have your voice.
+<power role = "patriarchy">Let her have your voice.</power>
 Vouch with me, heaven, I therefore beg it not
 To please the palate of my appetite,
 Nor to comply with heat, the young affects
@@ -955,8 +956,8 @@ Make head against my estimation.
 Be it as you shall privately determine,
 Either for her stay or going. The affair cries haste,
 And speed must answer it.
-FIRST 
-<sp chara = "SENATOR.">SENATOR.</sp>
+
+<sp chara = "SENATOR.">FIRST SENATOR.</sp>
 You must away tonight.
 
 <sp chara = "OTHELLO.">OTHELLO.</sp>
@@ -964,7 +965,7 @@ With all my heart.
 
 <sp chara = "DUKE.">DUKE.</sp>
 At nine i’ the morning here we’ll meet again.
-Othello, leave some officer behind,
+<chara>Othello</chara>, leave some officer behind,
 And he shall our commission bring to you,
 With such things else of quality and respect
 As doth import you.
@@ -983,25 +984,25 @@ If virtue no delighted beauty lack,
 Your son-in-law is far more<color is = "white" context = "purity"> fair </color>than <color is = "black">black</color>.
 FIRST 
 <sp chara = "SENATOR.">SENATOR.</sp>
-Adieu, brave <depiction>Moor</depiction>, use Desdemona well.
+Adieu, brave <depiction role = "race">Moor</depiction>, use Desdemona well.
 
 <sp chara = "BRABANTIO.">BRABANTIO.</sp>
-Look to her, <depiction>Moor</depiction>, if thou hast eyes to see:
-She has deceiv’d her father, and may thee.
-[Exeunt Duke, Senators, Officers, &amp;c.]
+Look to her, <depiction role = "race">Moor</depiction>, if thou hast eyes to see:
+<depiction role = "wife">She has <depiction role = "impure">deceiv’d</depiction> her father, and may thee.</depiction>
+<stage>[Exeunt Duke, Senators, Officers, &amp;c.]</stage>
 
 <sp chara = "OTHELLO.">OTHELLO.</sp>
-My life upon her faith! Honest Iago,
-My Desdemona must I leave to thee.
+My life upon her faith! Honest <chara>Iago</chara>,
+My <chara>Desdemona</chara> must I leave to thee.
 I prithee, let thy wife attend on her,
 And bring them after in the best advantage.—
-Come, Desdemona, I have but an hour
+Come, <chara>Desdemona</chara>, <love>I have but an hour
 Of love, of worldly matters, and direction,
-To spend with thee. We must obey the time.
-[Exeunt Othello and Desdemona.]
+To spend with thee. We must obey the time.</love>
+<stage>[Exeunt Othello and Desdemona.]</stage>
 
 <sp chara = "RODERIGO.">RODERIGO.</sp>
-Iago—
+<chara>Iago</chara>—
 
 <sp chara = "IAGO.">IAGO.</sp>
 What sayst thou, noble heart?
@@ -1028,13 +1029,13 @@ O <depiction role = "villain">villainous</depiction>! I have looked upon the wor
 What should I do? I confess it is my shame to be so fond, but it is not in my virtue to amend it.
 
 <sp chara = "IAGO.">IAGO.</sp>
-Virtue! a fig! ’Tis in ourselves that we are thus or thus. Our bodies are gardens, to the which our wills are gardeners. So that if we will plant nettles or sow lettuce, set hyssop and weed up thyme, supply it with one gender of herbs or distract it with many, either to have it sterile with idleness or manured with industry, why, the power and corrigible authority of this lies in our wills. If the balance of our lives had not one scale of reason to poise another of sensuality, the blood and baseness of our natures would conduct us to most preposterous conclusions. But we have reason to cool our raging motions, our carnal stings, our unbitted lusts; whereof I take this, that you call love, to be a sect, or scion.
+<depiction>Virtue! a fig! ’Tis in ourselves that we are thus or thus.</depiction> Our bodies are gardens, to the which our wills are gardeners. So that if we will plant nettles or sow lettuce, set hyssop and weed up thyme, supply it with one gender of herbs or distract it with many, either to have it sterile with idleness or manured with industry, why, the power and corrigible authority of this lies in our wills. If the balance of our lives had not one scale of reason to poise another of sensuality, the blood and baseness of our natures would conduct us to most preposterous conclusions. But we have reason to cool our raging motions, our carnal stings, our unbitted lusts; whereof I take this, that you call love, to be a sect, or scion.
 
 <sp chara = "RODERIGO.">RODERIGO.</sp>
 It cannot be.
 
 <sp chara = "IAGO.">IAGO.</sp>
-It is merely a lust of the blood and a permission of the will. Come, be a man. Drown thyself? Drown cats and blind puppies. I have professed me thy friend, and I confess me knit to thy deserving with cables of perdurable toughness; I could never better stead thee than now. Put money in thy purse; follow thou the wars; defeat thy favour with an usurped beard; I say, put money in thy purse. It cannot be that Desdemona should long continue her love to the <depiction>Moor</depiction>,—put money in thy purse,—nor he his to her. It was a violent commencement, and thou shalt see an answerable sequestration—put but money in thy purse. These <depiction>Moor</depiction>s are changeable in their wills. Fill thy purse with money. The food that to him now is as luscious as locusts shall be to him shortly as acerb as the coloquintida. She must change for youth. When she is sated with his body, she will find the error of her choice. She must have change, she must. Therefore put money in thy purse. If thou wilt needs damn thyself, do it a more delicate way than drowning. Make all the money thou canst. If sanctimony and a frail vow betwixt an erring barbarian and a supersubtle Venetian be not too hard for my wits and all the tribe of hell, thou shalt enjoy her; therefore make money. A pox of drowning thyself! It is clean out of the way: seek thou rather to be hanged in compassing thy joy than to be drowned and go without her.
+It is merely a lust of the blood and a permission of the will. <violence>Come, be a man. Drown thyself? Drown cats and blind puppies.</violence>I have professed me thy friend, and I confess me knit to thy deserving with cables of perdurable toughness; I could never better stead thee than now. Put money in thy purse; follow thou the wars; defeat thy favour with an usurped beard; I say, put money in thy purse. It cannot be that Desdemona should long continue her love to the <depiction>Moor</depiction>,—put money in thy purse,—nor he his to her. It was a violent commencement, and thou shalt see an answerable sequestration—put but money in thy purse. These <depiction>Moor</depiction>s are changeable in their wills. Fill thy purse with money. The food that to him now is as luscious as locusts shall be to him shortly as acerb as the coloquintida. She must change for youth. When she is sated with his body, she will find the error of her choice. She must have change, she must. Therefore put money in thy purse. If thou wilt needs damn thyself, do it a more delicate way than drowning. Make all the money thou canst. If sanctimony and a frail vow betwixt an erring barbarian and a supersubtle Venetian be not too hard for my wits and all the tribe of hell, thou shalt enjoy her; therefore make money. A pox of drowning thyself! It is clean out of the way: seek thou rather to be hanged in compassing thy joy than to be drowned and go without her.
 
 <sp chara = "RODERIGO.">RODERIGO.</sp>
 Wilt thou be fast to my hopes if I depend on the issue?
@@ -1058,50 +1059,50 @@ Go to, farewell. Do you hear, Roderigo?
 What say you?
 
 <sp chara = "IAGO.">IAGO.</sp>
-No more of drowning, do you hear?
+<violence>No more of drowning, do you hear?</violence>
 
 <sp chara = "RODERIGO.">RODERIGO.</sp>
 I am changed. I’ll sell all my land.
-[Exit.]
+<stage>[Exit.]</stage>
 
-<sp chara = "IAGO.">IAGO.</sp>
+<power role = "aside"><sp chara = "IAGO.">IAGO.</sp>
 Thus do I ever make my fool my purse.
 For I mine own gain’d knowledge should profane
 If I would time expend with such a snipe
-But for my sport and profit. I hate the <depiction>Moor</depiction>,
+But for my sport and profit. <violence>I hate the <depiction role = "race">Moor</depiction>,</violence>
 And it is thought abroad that ’twixt my sheets
 He has done my office. I know not if ’t be true,
-But I, for mere suspicion in that kind,
-Will do as if for surety. He holds me well,
-The better shall my purpose work on him.
-Cassio’s a proper man. Let me see now,
+But I, for <depiction>mere suspicion in that kind,
+Will do as if for surety.</depiction> <violence type = "plotting">He holds me well,
+The better shall my purpose work on him.</violence>
+<chara>Cassio</chara>’s a proper man. <violence type = "plotting">Let me see now,
 To get his place, and to plume up my will
-In double knavery. How, how? Let’s see.
-After some time, to abuse Othello’s ear
-That he is too familiar with his wife.
+In double knavery.</violence> How, how? Let’s see.
+After some time, <violence type = "plotting">to abuse <chara>Othello</chara>’s ear</violence>
+<depiction role = "wife">That he is too familiar with his wife.</depiction>
 He hath a person and a smooth dispose,
 To be suspected, fram’d to make women <depiction role = "wife" gender = "female">false</depiction>.
-The <depiction>Moor</depiction> is of a free and open nature
+The <depiction role = "race">Moor</depiction> is of a free and open nature
 That thinks men honest that but seem to be so,
-And will as tenderly be led by the nose
+<violence type = "plotting">And will as tenderly be led by the nose
 As asses are.
-I have’t. It is engender’d. Hell and night
-Must bring this monstrous birth to the world’s light.
-[Exit.] 
+I have’t. It is engender’d.</violence> Hell and night
+Must <violence type = "plotting">bring this monstrous <depiction>birth</depiction> to the world’s light.</violence></power>
+<stage>[Exit.]</stage> 
 </act>
 <!-- Use XPath to highlight specific words. And/Or find density of content to each scene or act.-->
     
+    
 <act number = "2">
 <actlabel>ACT II</actlabel>
-
 
 <scenelabel>SCENE I</scenelabel>. A seaport in Cyprus. A Platform.
 <stage>Enter Montano and two Gentlemen.</stage>
 
 <sp chara = "MONTANO.">MONTANO.</sp>
 What from the cape can you discern at sea?
-FIRST 
-<sp chara = "GENTLEMAN.">GENTLEMAN.</sp>
+
+<sp chara = "GENTLEMAN.">FIRST GENTLEMAN.</sp>
 Nothing at all, it is a high-wrought flood.
 I cannot ’twixt the heaven and the main
 Descry a sail.
@@ -1112,8 +1113,8 @@ A fuller blast ne’er shook our battlements.
 If it hath ruffian’d so upon the sea,
 What ribs of oak, when mountains melt on them,
 Can hold the mortise? What shall we hear of this?
-SECOND 
-<sp chara = "GENTLEMAN.">GENTLEMAN.</sp>
+
+<sp chara = "GENTLEMAN.">SECOND GENTLEMAN.</sp>
 A segregation of the Turkish fleet.
 For do but stand upon the foaming shore,
 The chidden billow seems to pelt the clouds,
@@ -1128,31 +1129,31 @@ If that the Turkish fleet
 Be not enshelter’d, and embay’d, they are drown’d.
 It is impossible to bear it out.
 <stage>Enter a third Gentleman.</stage>
-THIRD 
-<sp chara = "GENTLEMAN.">GENTLEMAN.</sp>
-News, lads! Our wars are done.
+
+<sp chara = "GENTLEMAN.">THIRD GENTLEMAN.</sp>
+News, lads! <violence>Our wars are done.
 The desperate tempest hath so bang’d the Turks
 That their designment halts. A noble ship of Venice
 Hath seen a grievous wreck and sufferance
-On most part of their fleet.
+On most part of their fleet.</violence>
 
 <sp chara = "MONTANO.">MONTANO.</sp>
 How? Is this true?
-THIRD 
-<sp chara = "GENTLEMAN.">GENTLEMAN.</sp>
+
+<sp chara = "GENTLEMAN.">THIRD GENTLEMAN.</sp>
 The ship is here put in,
 A Veronessa; Michael Cassio,
-Lieutenant to the warlike <depiction>Moor</depiction> Othello,
-Is come on shore; the <depiction>Moor</depiction> himself at sea,
+Lieutenant to the <depiction>warlike</depiction> <depiction role = "race">Moor</depiction> Othello,
+Is come on shore; the <depiction role = "race">Moor</depiction> himself at sea,
 And is in full commission here for Cyprus.
 
 <sp chara = "MONTANO.">MONTANO.</sp>
 I am glad on’t. ’Tis a worthy governor.
-THIRD 
-<sp chara = "GENTLEMAN.">GENTLEMAN.</sp>
+
+<sp chara = "GENTLEMAN.">THIRD GENTLEMAN.</sp>
 But this same Cassio, though he speak of comfort
 Touching the Turkish loss, yet he looks sadly,
-And prays the <depiction>Moor</depiction> be safe; for they were parted
+And prays the <depiction role = "race">Moor</depiction> be safe; for they were parted
 With foul and violent tempest.
 
 <sp chara = "MONTANO.">MONTANO.</sp>
@@ -1163,8 +1164,8 @@ As well to see the vessel that’s come in
 As to throw out our eyes for brave Othello,
 Even till we make the main and the aerial blue
 An indistinct regard.
-THIRD 
-<sp chara = "GENTLEMAN.">GENTLEMAN.</sp>
+ 
+<sp chara = "GENTLEMAN.">THIRD GENTLEMAN.</sp>
 Come, let’s do so;
 For every minute is expectancy
 Of more arrivance.
@@ -1172,7 +1173,7 @@ Of more arrivance.
 
 <sp chara = "CASSIO.">CASSIO.</sp>
 Thanks you, the valiant of this warlike isle,
-That so approve the <depiction>Moor</depiction>! O, let the heavens
+That so approve the <depiction role = "race">Moor</depiction>! O, let the heavens
 Give him defence against the elements,
 For I have lost him on a dangerous sea.
 
@@ -1184,7 +1185,7 @@ His bark is stoutly timber’d, and his pilot
 Of very expert and approv’d allowance;
 Therefore my hopes, not surfeited to death,
 Stand in bold cure.
-[Within.] A sail, a sail, a sail!
+<stage>[Within.]</stage> A sail, a sail, a sail!
 <stage>Enter a Messenger.</stage>
 
 <sp chara = "CASSIO.">CASSIO.</sp>
@@ -1196,33 +1197,33 @@ Stand ranks of people, and they cry “A sail!”
 
 <sp chara = "CASSIO.">CASSIO.</sp>
 My hopes do shape him for the governor.
-[A shot.]
-SECOND 
-<sp chara = "GENTLEMAN.">GENTLEMAN.</sp>
+<stage>[A shot.]</stage>
+
+<sp chara = "GENTLEMAN.">SECOND GENTLEMAN.</sp>
 They do discharge their shot of courtesy.
 Our friends at least.
 
 <sp chara = "CASSIO.">CASSIO.</sp>
 I pray you, sir, go forth,
 And give us truth who ’tis that is arriv’d.
-SECOND 
-<sp chara = "GENTLEMAN.">GENTLEMAN.</sp>
+
+<sp chara = "GENTLEMAN.">SECOND GENTLEMAN.</sp>
 I shall.
-[Exit.]
+<stage>[Exit.]</stage>
 
 <sp chara = "MONTANO.">MONTANO.</sp>
 But, good lieutenant, is your general wiv’d?
 
 <sp chara = "CASSIO.">CASSIO.</sp>
-Most fortunately: he hath achiev’d a maid
+<depiction role = "wife">Most fortunately: he hath achiev’d a maid
 That paragons description and wild fame,
 One that excels the quirks of blazoning pens,
 And in the essential vesture of creation
-Does tire the ingener.
+Does tire the ingener.</depiction>
 <stage>Enter second Gentleman.</stage>
 How now? Who has put in?
-SECOND 
-<sp chara = "GENTLEMAN.">GENTLEMAN.</sp>
+
+<sp chara = "GENTLEMAN.">SECOND GENTLEMAN.</sp>
 ’Tis one Iago, ancient to the general.
 
 <sp chara = "CASSIO.">CASSIO.</sp>
@@ -1232,31 +1233,31 @@ The gutter’d rocks, and congregated sands,
 Traitors ensteep’d to clog the guiltless keel,
 As having sense of beauty, do omit
 Their mortal natures, letting go safely by
-The divine Desdemona.
+The <depiction role = "wife" gender = "female">divine <chara>Desdemona</chara>.</depiction>
 
 <sp chara = "MONTANO.">MONTANO.</sp>
 What is she?
 
 <sp chara = "CASSIO.">CASSIO.</sp>
 She that I spake of, our great captain’s captain,
-Left in the conduct of the bold Iago;
+Left in the conduct of the bold <chara>Iago</chara>;
 Whose footing here anticipates our thoughts
 A se’nnight’s speed. Great Jove, Othello guard,
 And swell his sail with thine own powerful breath,
 That he may bless this bay with his tall ship,
-Make love’s quick pants in Desdemona’s arms,
+Make love’s quick pants in <chara>Desdemona</chara>’s arms,
 Give renew’d fire to our extincted spirits,
 And bring all Cyprus comfort!
 <stage>Enter Desdemona, Iago, Roderigo, and Emilia.</stage>
 O, behold,
 The riches of the ship is come on shore!
 Ye men of Cyprus, let her have your knees.
-Hail to thee, lady! and the grace of heaven,
+<depiction>Hail to thee, lady! and the grace of heaven,
 Before, behind thee, and on every hand,
-Enwheel thee round!
+Enwheel thee round!</depiction>
 
 <sp chara = "DESDEMONA.">DESDEMONA.</sp>
-I thank you, valiant Cassio.
+I thank you, valiant <chara>Cassio</chara>.
 What tidings can you tell me of my lord?
 
 <sp chara = "CASSIO.">CASSIO.</sp>
@@ -1265,37 +1266,37 @@ But that he’s well, and will be shortly here.
 
 <sp chara = "DESDEMONA.">DESDEMONA.</sp>
 O, but I fear—How lost you company?
-[Within.] A sail, a sail!
+<stage>[Within.]</stage> A sail, a sail!
 
 <sp chara = "CASSIO.">CASSIO.</sp>
 The great contention of the sea and skies
 Parted our fellowship. But, hark! a sail.
-[Guns within.]
-SECOND 
-<sp chara = "GENTLEMAN.">GENTLEMAN.</sp>
+<stage>[Guns within.]</stage>
+ 
+<sp chara = "GENTLEMAN.">SECOND GENTLEMAN.</sp>
 They give their greeting to the citadel.
 This likewise is a friend.
 
 <sp chara = "CASSIO.">CASSIO.</sp>
 See for the news.
-[Exit Gentleman.]
-Good ancient, you are welcome. [To Emilia.] Welcome, mistress.
-Let it not gall your patience, good Iago,
-That I extend my manners; ’tis my breeding
-That gives me this bold show of courtesy.
-[Kissing her.]
+<stage>[Exit Gentleman.]</stage>
+Good ancient, you are welcome. <stage>[To Emilia.]</stage> <depiction>Welcome, mistress.</depiction>
+Let it not gall your patience, good <chara>Iago</chara>,
+<depiction role = "impure" gender = "male">That I extend my manners; ’tis my breeding
+That gives me this bold show of courtesy.</depiction>
+<stage>[Kissing her.]</stage>
 
 <sp chara = "IAGO.">IAGO.</sp>
-Sir, would she give you so much of her lips
+<tone vibe = "anger">Sir, would she give you so much of her lips
 As of her tongue she oft bestows on me,
-You would have enough.
+You would have enough.</tone>
 
 <sp chara = "DESDEMONA.">DESDEMONA.</sp>
 Alas, she has no speech.
 
 <sp chara = "IAGO.">IAGO.</sp>
-In faith, too much.
-I find it still when I have list to sleep.
+<depiction role = "wife">In faith, too much.
+I find it still when I have list to sleep.</depiction>
 Marry, before your ladyship, I grant,
 She puts her tongue a little in her heart,
 And chides with thinking.
@@ -1304,13 +1305,13 @@ And chides with thinking.
 You have little cause to say so.
 
 <sp chara = "IAGO.">IAGO.</sp>
-Come on, come on; you are pictures out of doors,
+<violence type = "insult">Come on, come on; you are pictures out of doors,
 Bells in your parlours, wild-cats in your kitchens,
 Saints in your injuries, devils being offended,
-Players in your housewifery, and housewives in your beds.
+Players in your housewifery, and housewives in your beds.</violence>
 
 <sp chara = "DESDEMONA.">DESDEMONA.</sp>
-O, fie upon thee, slanderer!
+<violence type = "insult">O, fie upon thee, slanderer!</violence>
 
 <sp chara = "IAGO.">IAGO.</sp>
 Nay, it is true, or else I am a Turk.
@@ -1336,8 +1337,8 @@ Come on, assay.—There’s one gone to the harbour?
 Ay, madam.
 
 <sp chara = "DESDEMONA.">DESDEMONA.</sp>
-I am not merry, but I do beguile
-The thing I am, by seeming otherwise.—
+<depiction>I am not merry, but I do beguile
+The thing I am, by seeming otherwise.—</depiction>
 Come, how wouldst thou praise me?
 
 <sp chara = "IAGO.">IAGO.</sp>
@@ -1345,15 +1346,15 @@ I am about it, but indeed, my invention
 Comes from my pate as birdlime does from frieze,
 It plucks out brains and all: but my Muse labours,
 And thus she is deliver’d.
-If she be<color is = "white" context = "purity"> fair </color>and wise, fairness and wit,
-The one’s for use, the other useth it.
+<depiction>If she be<color is = "white" context = "purity"> fair </color>and wise, fairness and wit,
+The one’s for use, the other useth it.</depiction>
 
 <sp chara = "DESDEMONA.">DESDEMONA.</sp>
 Well prais’d! How if she be <color is = "black">black</color> and witty?
 
 <sp chara = "IAGO.">IAGO.</sp>
 If she be <color is = "black">black</color>, and thereto have a wit,
-She’ll find a white that shall her <color is = "black">black</color>ness fit.
+She’ll find a <color is = "white">white</color> that shall her <color is = "black">blackness</color> fit.
 
 <sp chara = "DESDEMONA.">DESDEMONA.</sp>
 Worse and worse.
@@ -1400,8 +1401,8 @@ O most lame and impotent conclusion!—Do not learn of him, Emilia, though he be
 <sp chara = "CASSIO.">CASSIO.</sp>
 He speaks home, madam. You may relish him more in the soldier than in the scholar.
 
-<sp chara = "IAGO.">IAGO.</sp>
-[Aside.] He takes her by the palm. Ay, well said, whisper. With as little a web as this will I ensnare as great a fly as Cassio. Ay, smile upon her, do. I will gyve thee in thine own courtship. You say true, ’tis so, indeed. If such tricks as these strip you out of your lieutenantry, it had been better you had not kissed your three fingers so oft, which now again you are most apt to play the sir in. Very good; well kissed, an excellent courtesy! ’Tis so, indeed. Yet again your fingers to your lips? Would they were clyster-pipes for your sake!
+<aside><sp chara = "IAGO.">IAGO.</sp>
+<stage>[Aside.]</stage> He takes her by the palm. Ay, well said, whisper. With as little a web as this will I ensnare as great a fly as Cassio. Ay, smile upon her, do. I will gyve thee in thine own courtship. You say true, ’tis so, indeed. If such tricks as these strip you out of your lieutenantry, it had been better you had not kissed your three fingers so oft, which now again you are most apt to play the sir in. Very good; well kissed, an excellent courtesy! ’Tis so, indeed. Yet again your fingers to your lips? Would they were clyster-pipes for your sake!</aside>
 <!--Mark asides!-->
 <stage>[Trumpets within.]</stage>
 The <depiction>Moor</depiction>! I know his trumpet.
@@ -1423,7 +1424,7 @@ O my<color is = "white" context = "purity"> fair </color>warrior!
 My dear Othello!
 
 <sp chara = "OTHELLO.">OTHELLO.</sp>
-It gives me wonder great as my content
+<love>It gives me wonder great as my content
 To see you here before me. O my soul’s joy!
 If after every tempest come such calms,
 May the winds blow till they have waken’d death!
@@ -1433,22 +1434,22 @@ As hell’s from heaven! If it were now to die,
 ’Twere now to be most happy, for I fear
 My soul hath her content so absolute
 That not another comfort like to this
-Succeeds in unknown fate.
+Succeeds in unknown fate.</love>
 
 <sp chara = "DESDEMONA.">DESDEMONA.</sp>
-The heavens forbid
+<love>The heavens forbid
 But that our loves and comforts should increase
-Even as our days do grow!
+Even as our days do grow!</love>
 
 <sp chara = "OTHELLO.">OTHELLO.</sp>
-Amen to that, sweet powers!
+<love>Amen to that, sweet powers!
 I cannot speak enough of this content.
 It stops me here; it is too much of joy:
-And this, and this, the greatest discords be [They kiss.]
-That e’er our hearts shall make!
+And this, and this, the greatest discords be <stage>[They kiss.]</stage>
+That e’er our hearts shall make!</love>
 
 <sp chara = "IAGO.">IAGO.</sp>
-[Aside.] O, you are well tun’d now,
+<stage>[Aside.]</stage> O, you are well tun’d now,
 But I’ll set down the pegs that make this music,
 As honest as I am.
 
@@ -1465,7 +1466,7 @@ Bring thou the master to the citadel;
 He is a good one, and his worthiness
 Does challenge much respect.—Come, Desdemona,
 Once more well met at Cyprus.
-[Exeunt Othello, Desdemona and Attendants.]
+<stage>[Exeunt Othello, Desdemona and Attendants.]</stage>
 
 <sp chara = "IAGO.">IAGO.</sp>
 Do thou meet me presently at the harbour. Come hither. If thou be’st valiant—as, they say, base men being in love have then a nobility in their natures more than is native to them—list me. The lieutenant tonight watches on the court of guard: first, I must tell thee this: Desdemona is directly in love with him.
@@ -1502,44 +1503,44 @@ I warrant thee. Meet me by and by at the citadel: I must fetch his necessaries a
 
 <sp chara = "RODERIGO.">RODERIGO.</sp>
 Adieu.
-[Exit.]
+<chara>[Exit.]</chara>
 
-<sp chara = "IAGO.">IAGO.</sp>
+<aside><sp chara = "IAGO.">IAGO.</sp>
 That Cassio loves her, I do well believe it;
 That she loves him, ’tis apt, and of great credit:
-The <depiction>Moor</depiction>, howbeit that I endure him not,
+The <depiction role = "race">Moor</depiction>, howbeit that I endure him not,
 Is of a constant, loving, noble nature;
-And, I dare think, he’ll prove to Desdemona
-A most dear husband. Now, I do love her too,
+And, I dare think, he’ll prove to <chara>Desdemona</chara>
+A most dear husband. <violence type = "sex">Now, I do love her too,
 Not out of absolute lust (though peradventure
 I stand accountant for as great a sin)
 But partly led to diet my revenge,
-For that I do suspect the lusty <depiction>Moor</depiction>
-Hath leap’d into my seat. The thought whereof
+For that I do suspect the lusty <depiction role = "race">Moor</depiction>
+Hath leap’d into my seat.</violence> The thought whereof
 Doth, like a poisonous mineral, gnaw my inwards,
 And nothing can or shall content my soul
-Till I am even’d with him, wife for wife,
-Or, failing so, yet that I put the <depiction>Moor</depiction>
+<depiction role = "wife">Till I am even’d with him, wife for wife,</depiction>
+Or, failing so, yet that I <violence type = "plotting">put the <depiction role = "race">Moor</depiction>
 At least into a jealousy so strong
-That judgement cannot cure. Which thing to do,
+That judgement cannot cure.</violence> Which thing to do,
 If this poor trash of Venice, whom I trash
 For his quick hunting, stand the putting on,
 I’ll have our Michael Cassio on the hip,
-Abuse him to the <depiction>Moor</depiction> in the rank garb
-(For I fear Cassio with my night-cap too)
-Make the <depiction>Moor</depiction> thank me, love me, and reward me
+Abuse him to the <depiction role = "race">Moor</depiction> in the rank garb
+<depiction role = "wife">(For I fear Cassio with my night-cap too)</depiction>
+<violence type = "plotting">Make the <depiction role = "race">Moor</depiction> thank me, love me, and reward me
 For making him egregiously an ass
 And practicing upon his peace and quiet
-Even to madness. ’Tis here, but yet confus’d.
-Knavery’s plain face is never seen till us’d.
-[Exit.]
+Even to madness.</violence> ’Tis here, but yet confus’d.
+Knavery’s plain face is never seen till us’d.</aside>
+<stage>[Exit.]</stage>
 
 <scenelabel>SCENE II</scenelabel>. A street.
 <stage>Enter Othello’s Herald with a proclamation.</stage>
 
 <sp chara = "HERALD.">HERALD.</sp>
 It is Othello’s pleasure, our noble and valiant general, that upon certain tidings now arrived, importing the mere perdition of the Turkish fleet, every man put himself into triumph: some to dance, some to make bonfires, each man to what sport and revels his addition leads him. For besides these beneficial news, it is the celebration of his nuptial. So much was his pleasure should be proclaimed. All offices are open, and there is full liberty of feasting from this present hour of five till the bell have told eleven. Heaven bless the isle of Cyprus and our noble general Othello!
-[Exit.]
+<stage>[Exit.]</stage>
 
 <scenelabel>SCENE III</scenelabel>. A Hall in the Castle.
 <stage>Enter Othello, Desdemona, Cassio and Attendants.</stage>
@@ -1557,21 +1558,21 @@ Will I look to’t.
 <sp chara = "OTHELLO.">OTHELLO.</sp>
 Iago is most honest.
 Michael, good night. Tomorrow with your earliest
-Let me have speech with you. [To Desdemona.] Come, my dear love,
+Let me have speech with you. <stage>[To Desdemona.]</stage> <love action = "physical">Come, my dear love,
 The purchase made, the fruits are to ensue;
 That profit’s yet to come ’tween me and you.—
-Good night.
-[Exeunt Othello, Desdemona and Attendants.]
+Good night.</love>
+<stage>[Exeunt Othello, Desdemona and Attendants.]</stage>
 <stage>Enter Iago.</stage>
 
 <sp chara = "CASSIO.">CASSIO.</sp>
 Welcome, Iago. We must to the watch.
 
 <sp chara = "IAGO.">IAGO.</sp>
-Not this hour, lieutenant. ’Tis not yet ten o’ th’ clock. Our general cast us thus early for the love of his Desdemona; who let us not therefore blame: he hath not yet made wanton the night with her; and she is sport for Jove.
+Not this hour, lieutenant. ’Tis not yet ten o’ th’ clock. Our general cast us thus early <depiction role = "wife">for the love of his Desdemona; who let us not therefore blame: he hath not yet made wanton the night with her; and she is sport for Jove.</depiction>
 
 <sp chara = "CASSIO.">CASSIO.</sp>
-She’s a most exquisite lady.
+<love>She’s a most exquisite lady.</love>
 
 <sp chara = "IAGO.">IAGO.</sp>
 And, I’ll warrant her, full of game.
@@ -1580,11 +1581,11 @@ And, I’ll warrant her, full of game.
 Indeed, she is a most fresh and delicate creature.
 
 <sp chara = "IAGO.">IAGO.</sp>
-What an eye she has! methinks it sounds a parley to provocation.
+What an eye she has! <violence type = "plotting">methinks it sounds a parley to provocation.</violence>
 
 <sp chara = "CASSIO.">CASSIO.</sp>
-An inviting eye, and yet methinks right modest.
-
+<depiction role = "wife">An inviting eye, and yet methinks right modest.
+</depiction>
 <sp chara = "IAGO.">IAGO.</sp>
 And when she speaks, is it not an alarm to love?
 
@@ -1598,7 +1599,7 @@ Well, happiness to their sheets! Come, lieutenant, I have a stoup of wine; and h
 Not tonight, good Iago. I have very poor and unhappy brains for drinking. I could well wish courtesy would invent some other custom of entertainment.
 
 <sp chara = "IAGO.">IAGO.</sp>
-O, they are our friends; but one cup: I’ll drink for you.
+<violence type = "manipulation">O, they are our friends; but one cup: I’ll drink for you.</violence>
 
 <sp chara = "CASSIO.">CASSIO.</sp>
 I have drunk but one cup tonight, and that was craftily qualified too, and behold, what innovation it makes here: I am unfortunate in the infirmity, and dare not task my weakness with any more.
@@ -1614,23 +1615,23 @@ Here at the door. I pray you, call them in.
 
 <sp chara = "CASSIO.">CASSIO.</sp>
 I’ll do’t; but it dislikes me.
-[Exit.]
+<stage>[Exit.]</stage>
 
 <sp chara = "IAGO.">IAGO.</sp>
-If I can fasten but one cup upon him,
+<violence type = "plotting">If I can fasten but one cup upon him,
 With that which he hath drunk tonight already,
 He’ll be as full of quarrel and offence
 As my young mistress’ dog. Now my sick fool Roderigo,
 Whom love hath turn’d almost the wrong side out,
-To Desdemona hath tonight carous’d
+To <chara>Desdemona</chara> hath tonight carous’d
 Potations pottle-deep; and he’s to watch:
 Three lads of Cyprus, noble swelling spirits,
 That hold their honours in a wary distance,
 The very elements of this warlike isle,
 Have I tonight fluster’d with flowing cups,
 And they watch too. Now, ’mongst this flock of drunkards,
-Am I to put our Cassio in some action
-That may offend the isle. But here they come:
+Am I to put our <chara>Cassio</chara> in some action
+That may offend the isle.</violence> But here they come:
 If consequence do but approve my dream,
 My boat sails freely, both with wind and stream.
 <stage>Enter Cassio, Montano and Gentlemen; followed by Servant with wine.</stage>
@@ -1643,7 +1644,7 @@ Good faith, a little one; not past a pint, as I am a soldier.
 
 <sp chara = "IAGO.">IAGO.</sp>
 Some wine, ho!
-[Sings.]
+<stage>[Sings.]</stage>
     And let me the cannikin clink, clink,
     And let me the cannikin clink, clink:
         A soldier’s a man,
@@ -1671,7 +1672,7 @@ I am for it, lieutenant; and I’ll do you justice.
 
 <sp chara = "IAGO.">IAGO.</sp>
 O sweet England!
-[Sings.]
+<chara>[Sings.]</chara>
     King Stephen was a worthy peer,
         His breeches cost him but a crown;
     He held them sixpence all too dear,
@@ -1714,14 +1715,14 @@ Why, very well then. You must not think, then, that I am drunk.
 To the platform, masters. Come, let’s set the watch.
 
 <sp chara = "IAGO.">IAGO.</sp>
-You see this fellow that is gone before,
+<power role = "manipulation">You see this fellow that is gone before,
 He is a soldier fit to stand by Cæsar
 And give direction: and do but see his vice,
 ’Tis to his virtue a just equinox,
 The one as long as th’ other. ’Tis pity of him.
 I fear the trust Othello puts him in,
 On some odd time of his infirmity,
-Will shake this island.
+Will shake this island.</power>
 
 <sp chara = "MONTANO.">MONTANO.</sp>
 But is he often thus?
@@ -1740,22 +1741,22 @@ And looks not on his evils: is not this true?
 <stage>Enter Roderigo.</stage>
 
 <sp chara = "IAGO.">IAGO.</sp>
-[Aside to him.] How now, Roderigo?
+<stage>[Aside to him.]</stage> How now, Roderigo?
 I pray you, after the lieutenant; go.
-[Exit Roderigo.]
+<stage>[Exit Roderigo.]</stage>
 
 <sp chara = "MONTANO.">MONTANO.</sp>
-And ’tis great pity that the noble <depiction>Moor</depiction>
+And ’tis great pity that the noble <depiction role = "race">Moor</depiction>
 Should hazard such a place as his own second
 With one of an ingraft infirmity:
 It were an honest action to say so
-To the <depiction>Moor</depiction>.
+To the <depiction role = "race">Moor</depiction>.
 
 <sp chara = "IAGO.">IAGO.</sp>
 Not I, for this<color is = "white" context = "purity"> fair </color>island.
-I do love Cassio well and would do much
+I do love <chara>Cassio</chara> well and would do much
 To cure him of this evil. But, hark! What noise?
-[Cry within: “Help! help!”]
+<stage>[Cry within: “Help! help!”]</stage>
 <stage>Enter Cassio, driving in Roderigo.</stage>
 
 <sp chara = "CASSIO.">CASSIO.</sp>
@@ -1772,7 +1773,7 @@ Beat me?
 
 <sp chara = "CASSIO.">CASSIO.</sp>
 Dost thou prate, rogue?
-[Striking Roderigo.]
+<violence><stage>[Striking Roderigo.]</stage></violence>
 
 <sp chara = "MONTANO.">MONTANO.</sp>
 Nay, good lieutenant;
@@ -1780,18 +1781,18 @@ I pray you, sir, hold your hand.
 
 <sp chara = "CASSIO.">CASSIO.</sp>
 Let me go, sir,
-Or I’ll knock you o’er the mazard.
+<violence>Or I’ll knock you o’er the mazard.</violence>
 
 <sp chara = "MONTANO.">MONTANO.</sp>
 Come, come, you’re drunk.
 
 <sp chara = "CASSIO.">CASSIO.</sp>
 Drunk?
-[They fight.]
+<violence><stage>[They fight.]</stage></violence>
 
 <sp chara = "IAGO.">IAGO.</sp>
-[Aside to Roderigo.] Away, I say! Go out and cry a mutiny.
-[Exit Roderigo.]
+<stage>[Aside to Roderigo.]</stage> Away, I say! <violence type = "plotting">Go out and cry a mutiny.</violence>
+<stage>[Exit Roderigo.]</stage>
 Nay, good lieutenant, God’s will, gentlemen.
 Help, ho!—Lieutenant,—sir,—Montano,—sir:—
 Help, masters! Here’s a goodly watch indeed!
