@@ -1,0 +1,41 @@
+start = play
+play = element play {meta, body}
+
+meta = element meta {created, main_title, author, character_List, play_scene}
+body = element body {act+}
+
+created = element created {text}
+main_title = element main_title {text}
+author = element author {text}
+character_List = element character_List {chara+ & text}
+play_scene = element play_scene {text}
+
+chara= element chara {name, gender, text}
+
+#START: all the attributes
+name = attribute name {text}
+number = attribute number {text}
+gender = attribute gender {"male" | "female"}
+role = attribute role {text}
+vibe = attribute vibe {text}
+is = attribute is {text}
+context = attribute context {text}
+action = attribute action {text}
+type = attribute type {text}
+#END: all the attributes
+
+act = element act {number, scene+}
+scene = element scene {number, title, mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*)*}}
+title = element title {text}
+
+#START: all basic elements
+sp = element sp {name*, gender*, text}
+stage = element stage {mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*)*}}
+tone = element tone {vibe, mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*)*}}
+depiction = element depiction {(role* & gender*), mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*)*}}
+power = element power {(role* & gender*), mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*)*}}
+color = element color {is, context, mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*)*}}
+violence = element violence {type, gender*, mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*)*}}
+love = element love {action*, mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*)*}}
+
+#END: all basic elements
