@@ -1,21 +1,25 @@
 start = play
 play = element play {meta, body}
 
-meta = element meta {created, main_title, author, character_List, play_scene}
+meta = element meta {created*, main_title, author, toc*, character_List, setting}
 body = element body {act+}
 
 created = element created {text}
 main_title = element main_title {text}
 author = element author {text}
+toc = element toc {act+ & scene+}
 character_List = element character_List {chara+ & text}
-play_scene = element play_scene {text}
+setting = element setting {text}
 
-chara= element chara {name, gender, text}
+chara= element chara {name, gender, class*, dress*, text} #Difficulty with having a chara element and attribute
+
 
 #START: all the attributes
 name = attribute name {text}
-number = attribute number {text}
+class = attribute class {"group"} #Used in the charatcer list for groups of actors
 gender = attribute gender {"male" | "female"}
+number = attribute number {text}
+dress = attribute dress {"male" | "female"}
 role = attribute role {text}
 vibe = attribute vibe {text}
 is = attribute is {text}
@@ -24,11 +28,12 @@ action = attribute action {text}
 type = attribute type {text}
 #END: all the attributes
 
-act = element act {number, scene+}
-scene = element scene {number, title, mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*)*}}
+act = element act {number, scene*}
+scene = element scene {number, title*, mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*)*}}
 title = element title {text}
 
 #START: all basic elements
+#Applied asterisks to pretty much everything
 sp = element sp {name*, gender*, text}
 stage = element stage {mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*)*}}
 tone = element tone {vibe, mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*)*}}

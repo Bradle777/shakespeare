@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<?xml-model href="RelaxNG-Schema.rnc" type="application/relax-ng-compact-syntax"?>
 <play>
-*** START OF THE PROJECT GUTENBERG EBOOK OTHELLO, THE MOOR OF VENICE ***
-
+<!-- Remove this ?*** START OF THE PROJECT GUTENBERG EBOOK OTHELLO, THE MOOR OF VENICE ***-->
+<!--add meta element start tag-->
 <title>OTHELLO, THE MOOR OF VENICE</title>
 
-by <author>William Shakespeare</author>
+<!-- Remove this? by--> <author>William Shakespeare</author>
     
     <!-- Mark-up thematic areas of focus: beginning/wedding, Iago/plotting, Othello/doubt, end/death -->
 
-<toc>Contents
+<toc><!--Remove this? Contents-->
 
 <act number = "1">ACT I</act>
 <scene number = "1">Scene I. Venice. A street</scene>
@@ -34,9 +34,11 @@ by <author>William Shakespeare</author>
 
 <act number = "5">ACT V</act>
 <scene number = "1">Scene I. Cyprus. A Street</scene>
-<scene number = "2">Scene II. Cyprus. A Bedchamber in the castle</scene></toc>
+<scene number = "2">Scene II. Cyprus. A Bedchamber in the castle</scene>
+</toc>
     
-<characters>Dramatis Personæ
+<characters><!-- Remove this? Dramatis Personæ-->
+<!-- Add name attribute -->
 <chara gender = "male">DUKE OF VENICE</chara>
 <chara gender = "male">BRABANTIO, a Senator of Venice and Desdemona’s father</chara>
 <chara class = "group">Other Senators</chara>
@@ -57,7 +59,8 @@ by <author>William Shakespeare</author>
 <!-- Find and replace character names: '[A-Z]+\.$' with '\n<char name = "\0">\0</chara>'-->
 
 <setting>SCENE: The First Act in Venice; during the rest of the Play at a Seaport in Cyprus.</setting>
-
+<!-- add meta end tag -->
+<!-- add body start tag -->
 <act number = "1">
 <actlabel>ACT I</actlabel>
 <!-- Find '^ACT[IV]+' and replace with "Act Label",  then find everything including the next act label including the current act label and wrap with "Act Number"-->
@@ -5812,4 +5815,5 @@ The time, the place, the torture, O, enforce it!
 Myself will straight aboard, and to the state
 This heavy act with heavy heart relate.
 [Exeunt.]</act>
+<!-- add body end tag -->
 </play>

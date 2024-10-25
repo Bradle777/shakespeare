@@ -39,7 +39,7 @@
       Romans and Goths, Senators, Tribunes, Officers, Soldiers, and
      Attendants
 </character_List>
-<play_scene>SCENE: Rome and the neighbourhood</play_scene>
+<setting>SCENE: Rome and the neighbourhood</setting>
 </meta>
 <body>
 <act number="1">
@@ -61,7 +61,7 @@
     If ever <power role="patriarch">Bassianus, Caesar's son</power>,
     Were gracious in the eyes of royal Rome,
     Keep then this passage to the Capitol;
-    And suffer not dis<depiction role="protector" gender="">honour</depiction> to approach
+    And suffer not dishonour to approach
     The imperial seat, to virtue consecrate,
     To justice, continence, and nobility;
     But let desert in pure election shine;
@@ -88,20 +88,20 @@
     To the monument of that Andronici
     Done sacrifice of expiation,
     And slain the noblest prisoner of the Goths.
-    And now at last, laden with <depiction role="protector" gender="">honour</depiction>'s spoils,
+    And now at last, laden with honour's spoils,
     Returns the good Andronicus to Rome,
     Renowned Titus, flourishing in arms.
-    Let us entreat, by <depiction role="protector" gender="">honour</depiction> of his name
+    Let us entreat, by honour of his name
     Whom worthily you would have now succeed,
     And in the Capitol and Senate's right,
-    Whom you pretend to <depiction role="protector" gender="">honour</depiction> and adore,
+    Whom you pretend to honour and adore,
     That you withdraw you and abate your strength,
     Dismiss your followers, and, as suitors should,
     Plead your deserts in peace and humbleness.
   <sp name="Saturninus" gender="male">SATURNINUS.</sp> How fair the Tribune speaks to calm my thoughts.
   <sp name="Bassianus" gender="male">BASSIANUS.</sp> Marcus Andronicus, so I do affy
     In thy uprightness and integrity,
-    And so I love and <depiction role="protector" gender="">honour</depiction> thee and thine,
+    And so I love and honour thee and thine,
     Thy <depiction role="hero" gender="male">noble brother Titus and his sons</depiction>,
     And her to whom my thoughts are humbled all,
     <depiction role="wife" gender="female">Gracious Lavinia, Rome's rich ornament,</depiction>
@@ -164,7 +164,7 @@
     The <power role="patriarch">eldest son</power> of this <power role="matriarch">distressed queen</power>.
   <sp name="Tamora" gender="female">TAMORA.</sp> Stay, Roman brethen! Gracious conqueror,
     Victorious Titus, rue the <depiction role="weakness" gender="female">tears I shed</depiction>,
-    <depiction role="weakness" gender="">A mother's tears in passion for her son</depiction>;
+    <depiction role="weakness" gender="female">A mother's tears in passion for her son</depiction>;
     And if thy sons were ever dear to thee,
     O, think my son to be as dear to me!
     Sufficeth not that we are brought to Rome
@@ -243,7 +243,7 @@
     That in your country's service drew your swords;
     But safer triumph is this funeral pomp
     That hath aspir'd to Solon's happiness
-    And triumphs over chance in <depiction role="protector" gender="">honour</depiction>'s bed.
+    And triumphs over chance in honour's bed.
     Titus Andronicus, the people of Rome,
     Whose friend in justice thou hast ever been,
     Send thee by me, their Tribune and their trust,
@@ -263,7 +263,7 @@
     And buried one and twenty valiant sons,
     <power role="patriarch">Knighted in field, slain manfully in arms</power>,
     In right and service of their noble country.
-    Give me a staff of <depiction role="protector" gender="">honour</depiction> for mine age,
+    Give me a staff of honour for mine age,
     But not a sceptre to control the world.
     Upright he held it, <power role="patriarch">lords</power>, that held it last.
   <sp name="Marcus Andronicus" gender="male">MARCUS.</sp> Titus, thou shalt obtain and ask the empery.
@@ -306,7 +306,7 @@
     I give thee thanks in part of thy deserts,
     And will with deeds requite thy gentleness;
     And for an onset, Titus, to advance
-    Thy name and <depiction role="protector" gender="">honour</depiction>able family,
+    Thy name and honourable family,
     <depiction role="wife" gender="female">Lavinia will I make my empress,
     Rome's royal mistress, <love action="verbal">mistress of my heart</love>,
     And in the sacred Pantheon her espouse</depiction>.
@@ -342,7 +342,7 @@
     Warrants these words in <power role="patriarch">princely courtesy.</power>
   <sp name="Saturninus" gender="male">SATURNINUS.</sp> Thanks, <depiction gender="female">sweet Lavinia</depiction>. Romans, let us go.
     Ransomless here we set our <depiction role="victim">prisoners</depiction> free.
-    Proclaim our <depiction role="protector" gender="">honour</depiction>s, <power role="patriarch">lords</power>, with trump and drum.
+    Proclaim our honours, <power role="patriarch">lords</power>, with trump and drum.
                                                       <stage>[Flourish]</stage>
   <sp name="Bassianus" gender="male">BASSIANUS.</sp><depiction role="object" gender="female"><power role="patriarch">Lord Titus</power>, by your leave, this maid is mine.</depiction>
                                                <stage>[<depiction role="object" gender="female">Seizing LAVINIA</depiction>]</stage>
@@ -372,10 +372,10 @@
   <sp name="Lucius" gender="male">LUCIUS.</sp> My lord, you are unjust, and more than so:
     In wrongful quarrel you have slain your son.
   <sp name="Titus Andronicus" gender="male">TITUS.</sp> Nor thou nor he are any sons of mine;
-    My sons would never so dis<depiction role="protector" gender="">honour</depiction> me.
+    My sons would never so dishonour me.
                  <stage>Re-enter aloft the EMPEROR
       with TAMORA and her two Sons, and AARON the Moor</stage>
-    <depiction role="villain" gender="">Traitor</depiction>, <depiction role="object" gender="female">restore Lavinia to the Emperor</depiction>.
+    <depiction role="villain" gender="male">Traitor</depiction>, <depiction role="object" gender="female">restore Lavinia to the Emperor</depiction>.
   <sp name="Lucius" gender="male">LUCIUS.</sp> Dead, if you will; but not to be his wife,
     That is another's lawful promis'd love. <stage>Exit</stage>
   <sp name="Saturninus" gender="male">SATURNINUS.</sp> No, Titus, no; the <depiction role="object" gender="female">Emperor needs her not</depiction>,
@@ -420,7 +420,7 @@
                                             <stage>Exeunt all but TITUS</stage>
   <sp name="Titus Andronicus" gender="male">TITUS.</sp> I am not bid to wait upon this bride.
   TITUS, when wert thou wont to walk alone,
-    Dis<depiction role="protector" gender="">honour</depiction>ed thus, and challenged of wrongs?
+    Dishonoured thus, and challenged of wrongs?
                       <stage>Re-enter MARCUS,
         and TITUS' SONS, LUCIUS, QUINTUS, and MARTIUS</stage>
   <sp name="Marcus Andronicus" gender="male">MARCUS.</sp> O Titus, see, O, see what thou hast done!
@@ -474,7 +474,7 @@
                                    <stage>[They put MUTIUS in the tomb]</stage>
   <sp name="Lucius" gender="male">LUCIUS.</sp> There lie thy bones, sweet Mutius, with thy friends,
     Till we with trophies do adorn thy tomb.
-  <sp>ALL.</sp><stage> [Kneeling]</stage><depiction role="weakness" gender="">No man shed tears</depiction> for noble Mutius;
+  <sp>ALL.</sp><stage> [Kneeling]</stage><depiction role="weakness" gender="male">No man shed tears</depiction> for noble Mutius;
     <depiction role="hero" gender="male">He lives in fame that died in virtue's cause</depiction>.
   <sp name="Marcus Andronicus" gender="male">MARCUS.</sp> My <power role="patriarch">lord</power>- to step out of these dreary dumps-
     <power role="matriarch">How comes it that the subtle Queen of Goths
@@ -513,18 +513,18 @@
     That hath express'd himself in all his deeds
     A father and a friend to thee and Rome.
   <sp name="Titus Andronicus" gender="male">TITUS.</sp> <power role="patriarch">Prince</power> Bassianus, leave to plead my deeds.
-    'Tis thou and those that have dis<depiction role="protector" gender="">honour</depiction>ed me.
+    'Tis thou and those that have dishonoured me.
     Rome and the righteous heavens be my judge
-    <depiction role="protector" gender="">How I have lov'd and honoured Saturnine!</depiction>
+    <depiction role="protector" gender="male">How I have lov'd and honoured Saturnine!</depiction>
   <sp name="Tamora" gender="female">TAMORA.</sp> My worthy <power role="patriarch">lord</power>, if ever Tamora
     Were gracious in those <power role="patriarch">prince</power>ly eyes of thine,
     Then hear me speak indifferently for all;
     And at my suit, sweet, pardon what is past.
-  <sp name="Saturninus" gender="male">SATURNINUS.</sp> What, madam! be dis<depiction role="protector" gender="">honour</depiction>ed openly,
+  <sp name="Saturninus" gender="male">SATURNINUS.</sp> What, madam! be dishonoured openly,
     And basely put it up without revenge?
   <sp name="Tamora" gender="female">TAMORA.</sp> Not so, my <power role="patriarch">lord</power>; the gods of Rome forfend
-    I should be author to dis<depiction role="protector" gender="">honour</depiction> you!
-    But on mine <depiction role="protector" gender="">honour</depiction> dare I undertake
+    I should be author to dishonour you!
+    But on mine honour dare I undertake
     For good <power role="patriarch">Lord</power> Titus' innocence in all,
     Whose fury not dissembled speaks his griefs.
     Then at my suit look graciously on him;
@@ -541,7 +541,7 @@
     Yield at entreats, and then let me alone:
     <violence type="plot">I'll find a day to massacre them all,
     And raze their faction and their family,</violence>
-    The cruel father and his <depiction role="villain" gender="">traitorous</depiction> sons,
+    The cruel father and his <depiction role="villain" gender="male">traitorous sons,</depiction>
     To whom I sued for my dear son's life;
     And make them know what 'tis to let a <power role="matriarch">queen</power>
     Kneel in the streets and beg for grace in vain.-</power>
@@ -555,7 +555,7 @@
     A Roman now adopted happily,
     And must advise the Emperor for his good.
     This day all quarrels die, Andronicus;
-    And let it be mine <depiction role="protector" gender="">honour</depiction>, good my <power role="patriarch">lord</power>,
+    And let it be mine honour, good my <power role="patriarch">lord</power>,
     That I have reconcil'd your friends and you.
     For you, <power role="patriarch">Prince</power> Bassianus, I have pass'd
     My word and promise to the Emperor
@@ -565,8 +565,8 @@
     You shall ask pardon of his Majesty.
   <sp name="Lucius" gender="male">LUCIUS.</sp> We do, and vow to heaven and to his Highness
     That what we did was mildly as we might,
-    Tend'ring our sister's <depiction role="protector" gender="">honour</depiction> and our own.
-  <sp name="Marcus Andronicus" gender="male">MARCUS.</sp> That on mine <depiction role="protector" gender="">honour</depiction> here do I protest.
+    Tend'ring our sister's honour and our own.
+  <sp name="Marcus Andronicus" gender="male">MARCUS.</sp> That on mine honour here do I protest.
   <sp name="Saturninus" gender="male">SATURNINUS.</sp> Away, and talk not; trouble us no more.
   <sp name="Tamora" gender="female">TAMORA.</sp> Nay, nay, sweet Emperor, we must all be friends.
     The Tribune and his nephews kneel for grace.
@@ -732,7 +732,7 @@
     The palace full of tongues, of eyes, and ears;
     The woods are ruthless, dreadful, deaf, and dull.
     There speak and strike, brave boys, and take your turns;
-    There serve your <depiction role="predator" gender="">lust</depiction>, shadowed from heaven's eye,
+    There serve your <depiction role="predator" gender="male">lust</depiction>, shadowed from heaven's eye,
     <violence type="sex">And revel in Lavinia's treasury.</violence></depiction>
   <sp name="Chiron" gender="male">CHIRON.</sp> Thy counsel, lad, smells of no cowardice.
   <sp name="Demetrius" gender="male">DEMETRIUS.</sp> Sit fas aut nefas, till I find the stream
@@ -759,8 +759,8 @@
     Many good morrows to your Majesty!
     Madam, to you as many and as good!
     I promised your Grace a hunter's peal.
-  <sp name="Saturninus" gender="male">SATURNINUS.</sp> And you have rung it <depiction role="predator" gender="">lustily</depiction>, my <power role="patriarch">lord</power>,—
-    Somewhat too early for new-married ladies.
+  <sp name="Saturninus" gender="male">SATURNINUS.</sp> And you have rung it <depiction role="predator" gender="male">lustily</depiction>, my <power role="patriarch">lord</power>,—
+    Somewhat <depiction role="wife" gender="female">too early for new-married ladies.</depiction>
   <sp name="Bassianus" gender="male">BASSIANUS.</sp> Lavinia, how say you?
   <sp name="Lavinia" gender="female">LAVINIA.</sp> I say no;
     I have been broad awake two hours and more.
@@ -816,14 +816,14 @@
     My silence and my cloudy melancholy,
     My fleece of woolly hair that now uncurls
     Even as an adder when she doth unroll
-    <violence action="murder">To do some fatal execution?</violence>
+    <violence type="murder">To do some fatal execution?</violence>
     No, madam, these are no venereal signs.
     <depiction role="villain" gender="male">Vengeance is in my heart, death in my hand,
     <color is="red" context="death">Blood </color>and revenge are hammering in my head.</depiction>
     Hark, Tamora, the empress of my soul,
     Which never hopes more heaven than rests in thee-
     This is the day of doom for Bassianus;
-   <violence action="sex"> His Philomel must lose her tongue to-day,
+   <violence type="sex"> His Philomel must lose her tongue to-day,
     <depiction role="villain" gender="male">Thy sons make pillage of her chastity,</depiction>
     And wash their hands in Bassianus' <color is="red" context="death">blood.</color></violence>
     Seest thou this letter? Take it up, I pray thee,
@@ -914,7 +914,7 @@
     And shall she carry this unto her grave?
   <sp name="Chiron" gender="male">CHIRON.</sp> <depiction role="villain" gender="male">An if she do, I would I were an eunuch.
     Drag hence her husband to some secret hole,
-    And make his dead trunk pillow to our <depiction role="predator" gender="">lust</depiction>.</depiction>
+    And make his dead trunk pillow to our <depiction role="predator" gender="male">lust</depiction>.</depiction>
   <sp name="Tamora" gender="female">TAMORA.</sp> But when ye have the honey we desire,
     Let not this wasp outlive, us both to sting.
   <sp name="Chiron" gender="male">CHIRON.</sp> I warrant you, madam, we will make that sure.
@@ -1083,7 +1083,7 @@ This is the hole where Aaron bid us hide him.
   <sp name="Tamora" gender="female">TAMORA.</sp> What, are they in this pit? O wondrous thing!
     How easily murder is discovered!
   <sp name="Titus Andronicus" gender="male">TITUS.</sp><tone vibe="begging"> High Emperor, upon my feeble knee
-    I beg this boon, with <depiction role="weakness" gender="">tears not lightly shed</depiction>,
+    I beg this boon, with <depiction role="weakness" gender="male">tears not lightly shed</depiction>,
     That this fell fault of my accursed sons-
     Accursed if the fault be prov'd in them-</tone>
   <sp name="Saturninus" gender="male">SATURNINUS.</sp> If it be prov'd! You see it is apparent.
@@ -1190,7 +1190,7 @@ execution, and TITUS going before, pleading</stage>
                           <stage>[ANDRONICUS lieth down, and the judges
                      pass by him with the prisoners, and exeunt]</stage>
     <tone vibe="sad">For these, Tribunes, in the dust I write
-    My heart's deep languor and my soul's sad <depiction role="weakness" gender="">tears</depiction>.
+    My heart's deep languor and my soul's sad tears.
     Let my tears stanch the earth's dry appetite;
     My sons' <color is="red" context="death">sweet blood </color>will make it <depiction role="inpure">shame and blush.</depiction>
     O earth, I will befriend thee more with rain
@@ -1219,8 +1219,8 @@ execution, and TITUS going before, pleading</stage>
     Who though they cannot answer my distress,
     Yet in some sort they are better than the Tribunes,
     For that they will not intercept my tale.
-    When I do <depiction role="weakness" gender="">weep</depiction>, they humbly at my feet
-    Receive my <depiction role="weakness" gender="">tears</depiction>, and seem to <depiction role="weakness" gender="">weep</depiction> with me;
+    When I do weep, they humbly at my feet
+    <depiction role="weakness" gender="male">Receive my tears</depiction>, and seem to weep with me;
     And were they but attired in grave weeds,
     Rome could afford no tribunes like to these.
     A stone is soft as wax: tribunes more hard than stones.
@@ -1239,7 +1239,7 @@ execution, and TITUS going before, pleading</stage>
     From these devourers to be banished!
     But who comes with our brother Marcus here?
 <stage>Enter MARCUS with LAVINIA</stage>
-  <sp name="Marcus Andronicus" gender="male">MARCUS.</sp> Titus, prepare thy aged eyes to <depiction role="weakness" gender="">weep</depiction>,
+  <sp name="Marcus Andronicus" gender="male">MARCUS.</sp> Titus, prepare <depiction role="weakness" gender="male">thy aged eyes to weep</depiction>,
     Or if not so, thy noble heart to break.
     I bring consuming sorrow to thine age.
   <sp name="Titus Andronicus" gender="male">TITUS.</sp> Will it consume me? Let me see it then.
@@ -1253,15 +1253,15 @@ execution, and TITUS going before, pleading</stage>
     Or <depiction role="inpure">brought a fagot</depiction> to bright-burning Troy?
     My grief was at the height before thou cam'st,
     And now like Nilus it disdaineth bounds.
-    Give me a sword, I'll chop off my <power gender="">hands</power>too,
+    Give me a sword, I'll chop off my <power gender="male">hands</power>too,
     For they have fought for Rome, and all in vain;
     And they have nurs'd this woe in feeding life;
     In bootless prayer have they been held up,
     And they have serv'd me to effectless use.
     Now all the service I require of them
     Is that the one will help to cut the other.
-    'Tis well, Lavinia, that thou hast no hands;
-    For <power gender="">hands</power>to do Rome service is but vain.
+    'Tis well, Lavinia, that <power role="weakness" gender="female">thou hast no hands</power>;
+    For hands to do Rome service is but vain.
   <sp name="Lucius" gender="male">LUCIUS.</sp> Speak, <depiction role="weakness" gender="female">gentle sister</depiction>, who hath martyr'd thee?
   <sp name="Marcus Andronicus" gender="male">MARCUS.</sp> O, that delightful engine of her thoughts
     That blabb'd them with such pleasing eloquence
@@ -1287,15 +1287,15 @@ execution, and TITUS going before, pleading</stage>
     Had I but seen thy picture in this plight,
     It would have madded me; what shall I do
     Now I behold <depiction role="object" gender="female">thy lively body so?</depiction>
-    Thou hast no <power gender="">hands</power>to wipe away thy <depiction role="weakness" gender="">tears</depiction>,
+    <power role="weakness" gender="female">Thou hast no hands</power>to wipe away thy tears,
     Nor tongue to tell me who hath martyr'd thee;
     <depiction role="wife" gender="female">Thy husband he is dead,</depiction> and for his death
     Thy brothers are condemn'd, and dead by this.
     Look, Marcus! Ah, son Lucius, look on her!
-    When I did name her brothers, then fresh <depiction role="weakness" gender="">tears</depiction>
+    When I did name her brothers, then fresh tears
     Stood on her cheeks, as doth the honey dew
     Upon a gath'red lily almost withered.</tone>
-  <sp name="Marcus Andronicus" gender="male">MARCUS.</sp> Perchance she <depiction role="weakness" gender="">weeps</depiction> because they kill'd her husband;
+  <sp name="Marcus Andronicus" gender="male">MARCUS.</sp> Perchance <depiction role="weakness" gender="female">she weeps because they kill'd her husband;</depiction>
     Perchance because she knows them innocent.
   <sp name="Titus Andronicus" gender="male">TITUS.</sp><tone vibe="sad"> If they did kill thy husband, then be joyful,
     Because the law hath ta'en revenge on them.
@@ -1311,7 +1311,7 @@ execution, and TITUS going before, pleading</stage>
     And in the fountain shall we gaze so long,
     Till the fresh taste be taken from that clearness,
     And made a brine-pit with <depiction role="weakness" gender="male">our bitter tears?</depiction></tone>
-    Or shall we cut away our <power gender="">hands</power>like thine?
+    Or <power role="weakness" gender="male">shall we cut away our hands</power>like thine?
     Or shall we bite our tongues, and in dumb shows
     Pass the remainder of our hateful days?
     What shall we do? Let us that have our tongues
@@ -1321,13 +1321,13 @@ execution, and TITUS going before, pleading</stage>
     <depiction role="weakness" gender="female">See how my wretched sister sobs and weeps</depiction>.
   <sp name="Marcus Andronicus" gender="male">MARCUS.</sp> Patience, dear niece. Good Titus, dry thine eyes.
   <sp name="Titus Andronicus" gender="male">TITUS.</sp> Ah, Marcus, Marcus! Brother, well I wot
-    Thy napkin cannot drink a <depiction role="weakness" gender="">tear</depiction> of mine,
+    Thy napkin cannot drink a tear of mine,
     For thou, poor man, hast drown'd it with thine own.
   <sp name="Lucius" gender="male">LUCIUS.</sp> Ah, my Lavinia, I will wipe thy cheeks.
   <sp name="Titus Andronicus" gender="male">TITUS.</sp> Mark, Marcus, mark! I understand her signs.
     Had she a tongue to speak, now would she say
     That to her brother which I said to thee:
-    His napkin, with his true <depiction role="weakness" gender="">tears</depiction> all bewet,
+    His napkin, with his true tears all bewet,
     Can do no service on her sorrowful cheeks.
     O, what a sympathy of woe is this
     As far from help as Limbo is from bliss!
@@ -1349,7 +1349,7 @@ execution, and TITUS going before, pleading</stage>
     Shall not be sent. My hand will serve the turn,
     My youth can better spare my <color is="red" context="death">blood </color>than you,
     <depiction role="hero" gender="male">And therefore mine shall save my brothers' lives.</depiction>
-  <sp name="Marcus Andronicus" gender="male">MARCUS.</sp> Which of your <power gender="">hands</power>hath not defended Rome
+  <sp name="Marcus Andronicus" gender="male">MARCUS.</sp> Which of your hands hath not defended Rome
     And rear'd aloft the <color is="red" context="savage">bloody</color> battle-axe,
     Writing destruction on the enemy's castle?
     O, none of both but are of high desert!
@@ -1391,7 +1391,7 @@ execution, and TITUS going before, pleading</stage>
    <power role="aside" gender="male"><stage> [Aside]</stage><depiction role="villain" gender="male"> Their heads I mean. O, how this villainy
     Doth fat me with the very thoughts of it!
     Let fools do good, and <depiction role="pure" gender="male">fair men call for grace</depiction>:
-    <color is="black" context="">Aaron will have his soulblacklike his face.</color></depiction></power><stage>Exit</stage>
+    <color is="black" context="unpure">Aaron will have his soul black like his face.</color></depiction></power><stage>Exit</stage>
   <sp name="Titus Andronicus" gender="male">TITUS.</sp><tone vibe="sad"><depiction role="weakness" gender="male"> O, here I lift this one hand up to heaven,
     And bow this feeble ruin to the earth;
     If any power pities wretched tears</depiction>,
@@ -1415,7 +1415,7 @@ me?
     I am the sea; hark how her sighs do blow.
     <depiction role="weakness" gender="female">She is the weeping welkin, I the earth;</depiction>
     Then must my sea be moved with her sighs;
-    Then must my earth with her continual <depiction role="weakness" gender="">tears</depiction>
+    Then must my earth with her continual tears
     Become a deluge, overflow'd and drown'd;
     For why my bowels cannot hide her woes,
     But like a drunkard must I vomit them.
@@ -1518,7 +1518,7 @@ A banquet.
     May run into that sink and, soaking in,
     <depiction role="weakness">Drown the lamenting fool in sea-salt tears</depiction>.</tone>
   <sp name="Marcus Andronicus" gender="male">MARCUS.</sp> Fie, brother, fie!<depiction role="weakness" gender="female"> Teach her not thus to lay
-    Such violent <power gender="">hands</power>upon her tender life.</depiction>
+    Such <violence type="threat">violent hands upon her tender life.</violence></depiction>
   <sp name="Titus Andronicus" gender="male">TITUS.</sp> How now! Has sorrow made thee dote already?
     Why, Marcus, no man should be mad but I.
     <power role="weakness" gender="female">What violent handscan she lay on her life?</power>
@@ -1533,7 +1533,7 @@ A banquet.
     Come, let's fall to; and, gentle girl, eat this:
     Here is no drink. Hark, Marcus, what she says-
     I can interpret all her martyr'd signs;
-    She says she drinks no other drink but <depiction role="weakness" gender="">tears</depiction>,
+    She says <depiction role="weakness" gender="female">she drinks no other drink but tears</depiction>,
     Brew'd with her sorrow, mesh'd upon her cheeks.
     Speechless complainer, I will learn thy thought;
     In thy dumb action will I be as perfect
@@ -1546,7 +1546,7 @@ A banquet.
     Make my aunt merry with some pleasing tale.
   <sp name="Marcus Andronicus" gender="male">MARCUS.</sp> Alas, the tender boy, in passion mov'd,
     Doth weep to see his grandsire's heaviness.
-  <sp name="Titus Andronicus" gender="male">TITUS.</sp><depiction role="weakness" gender="weakness"> Peace, tender sapling; thou art made of tears,
+  <sp name="Titus Andronicus" gender="male">TITUS.</sp><depiction role="weakness" gender="male"> Peace, tender sapling; thou art made of tears,
     And tears will quickly melt thy life away.</depiction>
                           <stage>[MARCUS strikes the dish with a knife]</stage>
     What dost thou strike at, Marcus, with thy knife?
@@ -1563,7 +1563,7 @@ A banquet.
     Poor harmless fly,
     That with his pretty buzzing melody
     Came here to make us merry! And thou hast kill'd him.</depiction>
-  <sp name="Marcus Andronicus" gender="male">MARCUS.</sp> Pardon me, sir; <depiction role="race" gender="male">it was a <color is="black" context="">black</color>ill-favour'd fly,
+  <sp name="Marcus Andronicus" gender="male">MARCUS.</sp> Pardon me, sir; <depiction role="race" gender="male">it was a <color is="black" context="unpure">black</color>ill-favour'd fly,
     Like to the Empress' Moor; therefore I kill'd him.</depiction>
   <sp name="Titus Andronicus" gender="male">TITUS.</sp> O, O, O!
     <depiction role="race" gender="male">Then pardon me for reprehending thee,
@@ -1575,7 +1575,7 @@ A banquet.
     Ah, sirrah!
     <depiction role="race" gender="male">Yet, I think, we are not brought so low
     But that between us we can kill a fly
-    That comes in likeness of a <color is="black" context="">coal-black</color> Moor.</depiction></depiction>
+    That comes in likeness of a <color is="black" context="dirty">coal-black</color> Moor.</depiction></depiction>
   <sp name="Marcus Andronicus" gender="male">MARCUS.</sp> Alas, poor man! grief has so wrought on him,
     He takes false shadows for true substances.
   <sp name="Titus Andronicus" gender="male">TITUS.</sp> Come, take away. Lavinia, go with me;
@@ -1687,10 +1687,10 @@ A banquet.
     My <power role="patriarch">lord</power>, kneel down with me; Lavinia, kneel;
     And kneel, sweet boy, the Roman Hector's hope;
     And swear with me- as, with the woeful fere
-    And father of that chaste dis<depiction role="protector" gender="">honour</depiction>ed dame,
+    And father of that chaste dishonoured dame,
     <power role="patriarch">Lord</power> Junius Brutus sware for Lucrece' rape-
     <violence type="plotting">That we will prosecute, by good advice,
-    Mortal revenge upon these <depiction role="villain" gender="">traitorous</depiction> Goths,
+    Mortal revenge upon these <depiction role="villain">traitorous Goths,</depiction>
     And see their <color is="red" context="death">blood </color>or die with this reproach.</violence>
   <sp name="Titus Andronicus" gender="male">TITUS.</sp> 'Tis sure enough, an you knew how;
     But if you hunt these bear-whelps, then beware:
@@ -1738,14 +1738,14 @@ YOUNG LUCIUS and another with a bundle of weapons, and verses writ upon them</st
     He hath some message to deliver us.
   <sp name="Aaron" gender="male">AARON.</sp> Ay, some mad message from his mad grandfather.
   <sp>BOY.</sp> My <power role="patriarch">lords</power>, with all the humbleness I may,
-    I greet your <depiction role="protector" gender="">honour</depiction>s from Andronicus-
+    I greet your honours from Andronicus-
    <power role="aside" gender="male"><stage> [Aside]</stage> And pray the Roman gods confound you both!</power>
   <sp name="Demetrius" gender="male">DEMETRIUS.</sp> Gramercy, lovely Lucius. What's the news?
   <sp>BOY.</sp><power role="aside" gender="male"><stage> [Aside]</stage> That you are both decipher'd, that's the news,
     <depiction role="villain" gender="male">For villains mark'd with <violence type="sex">rape</violence></depiction>.- May it please you,
     My grandsire, well advis'd, hath sent by me
     The goodliest weapons of his armoury
-    To gratify your <depiction role="protector" gender="">honour</depiction>able youth,
+    To gratify your honourable youth,
     The hope of Rome; for so he bid me say;
     And so I do, and with his gifts present
     Your <power role="patriarch">lords</power>hips, that, whenever you have need,
@@ -1839,7 +1839,7 @@ over.</power>
     Nor great Alcides, nor the god of war,
     Shall seize this prey out of his father's hands.
     What, what, ye sanguine, shallow-hearted boys!
-    Ye <color is="white"></color> walls! ye alehouse painted signs!
+    Ye <color is="white" context="naive"></color> walls! ye alehouse painted signs!
     <color is="black" context="unpure">Coal-black</color> is better than another hue
     In that it scorns to bear another hue;
     <depiction role="inpure" gender="male">For all the water in the ocean
@@ -2165,7 +2165,7 @@ fair
     Say that the Emperor requests a parley
     Of warlike Lucius, and appoint the meeting
     Even at his father's house, the old Andronicus.
-  <sp name="Saturninus" gender="male">SATURNINUS.</sp> Aemilius, do this message <depiction role="protector" gender="">honour</depiction>ably;
+  <sp name="Saturninus" gender="male">SATURNINUS.</sp> Aemilius, do this message honourably;
     And if he stand on hostage for his safety,
     Bid him demand what pledge will please him best.
   <sp>AEMILIUS.</sp> Your bidding shall I do effectually. Exit
@@ -2202,7 +2202,7 @@ fair
     <depiction role="villain" gender="female">And be aveng'd on cursed Tamora.</depiction>
   <sp>ALL THE GOTHS.</sp> And as he saith, so say we all with him.
   <sp name="Lucius" gender="male">LUCIUS.</sp> I humbly thank him, and I thank you all.
-    But who comes here, led by a <depiction role="predator" gender="">lusty</depiction> Goth?
+    But who comes here, led by a <depiction role="predator">lusty Goth?</depiction>
 <stage>Enter a GOTH, leading AARON with his CHILD in his arms</stage>
   <sp>SECOND GOTH.</sp> Renowned Lucius, from our troops I stray'd
     To gaze upon a ruinous monastery;
@@ -2302,13 +2302,13 @@ fair
     And almost broke my heart with extreme laughter.
     I pried me through the crevice of a wall,
     When, for his hand, he had his two sons' heads;
-    Beheld his <depiction role="weakness" gender="">tears</depiction>, and laugh'd so heartily
+    Beheld his tears, and laugh'd so heartily
     That both mine eyes were rainy like to his;
     And when I told the <power role="matriarch">Empress</power> of this sport,
     <love action="physical">She swooned almost at my pleasing tale,
     And for my tidings gave me twenty kisses.</love></depiction>
   <sp>GOTH.</sp> What, canst thou say all this and never blush?
-  <sp name="Aaron" gender="male">AARON.</sp> Ay, like a<color is="black" context="">black</color>dog, as the saying is.
+  <sp name="Aaron" gender="male">AARON.</sp> Ay, like a<color is="black" context="violent">black dog</color>, as the saying is.
   <sp name="Lucius" gender="male">LUCIUS.</sp> Art thou not sorry for these heinous deeds?
   <sp name="Aaron" gender="male">AARON.</sp><depiction role="villain" gender="male"> Ay, that I had not done a thousand more.
     Even now I curse the day- and yet, I think,
@@ -2320,7 +2320,7 @@ fair
     Set deadly enmity between two friends;
     Make poor men's cattle break their necks;
     Set fire on barns and hay-stacks in the night,
-    And bid the owners quench them with their <depiction role="weakness" gender="">tears</depiction>.
+    And bid the owners quench them with their tears.
     Oft have I digg'd up dead men from their graves,
     And set them upright at their dear friends' door</violence>
     Even when their sorrows almost was forgot,
@@ -2405,10 +2405,10 @@ fair
   <sp name="Titus Andronicus" gender="male">TITUS.</sp> Do me some service ere I come to thee.
     Lo, by thy side where Rape and Murder stands;
     Now give some surance that thou art Revenge-
-    Stab them, or <depiction role="weakness" gender="">tear</depiction> them on thy chariot wheels;
+    Stab them, or tear them on thy chariot wheels;
     And then I'll come and be thy waggoner
     And whirl along with thee about the globes.
-    Provide thee two proper palfreys,<color is="black" context="">black</color>as jet,
+    Provide thee two proper palfreys,<color is="black" context="villain">black as jet,</color>
     To hale thy vengeful waggon swift away,
     And find out murderers in their guilty caves;
     And when thy car is loaden with their heads,
@@ -2522,7 +2522,7 @@ abide
   <sp name="Titus Andronicus" gender="male">TITUS.</sp> Fie, Publius, fie! thou art too much deceiv'd.
     The one is Murder, and Rape is the other's name;
     And therefore bind them, gentle Publius-
-    Caius and Valentine, lay <power gender="">hands</power>on them.
+    Caius and Valentine, lay hands on them.
     Oft have you heard me wish for such an hour,
     And now I find it; therefore bind them sure,
     And stop their mouths if they begin to cry. Exit
@@ -2605,7 +2605,7 @@ abide
   <sp name="Marcus Andronicus" gender="male">MARCUS.</sp><power role="patriarch"> Rome's Emperor</power>, and nephew, break the parle;
     These quarrels must be quietly debated.
     The feast is ready which the careful Titus
-    Hath ordain'd to an <depiction role="protector" gender="">honour</depiction>able end,
+    Hath ordain'd to an honourable end,
     For peace, for love, for league, and good to Rome.
     Please you, therefore, draw nigh and take your places.
   <sp name="Saturninus" gender="male">SATURNINUS.</sp> Marcus, we will.
@@ -2692,13 +2692,13 @@ feed?
     Were they that murd'red our Emperor's brother;
     And they it were that ravished our sister.
     For their fell faults our brothers were beheaded,</depiction>
-    Our father's <depiction role="weakness" gender="">tears</depiction> despis'd, and basely cozen'd
+    Our father's tears despis'd, and basely cozen'd
     Of that true hand that fought Rome's quarrel out
     And sent her enemies unto the grave.
     Lastly, myself unkindly banished,
-    The gates shut on me, and turn'd <depiction role="weakness" gender="">weeping</depiction> out,
+    <depiction role="weakness" gender="male">The gates shut on me, and turn'd weeping</depiction> out,
     To beg relief among Rome's enemies;
-    Who drown'd their enmity in my true <depiction role="weakness" gender="">tears</depiction>,
+    Who drown'd their enmity in my true <depiction role="weakness" gender="male">tears</depiction>,
     And op'd their arms to embrace me as a friend.
     <depiction gender="male" role="hero">I am the turned forth, be it known to you,
     That have preserv'd her welfare in my <color is="red" context="death">blood</color></depiction>
@@ -2767,8 +2767,8 @@ feed?
     Do them that kindness, and take leave of them.
   <sp>BOY.</sp><tone vibe="sad"> O grandsire, grandsire! ev'n with all my heart
     Would I were dead, so you did live again!
-    O <power role="patriarch">Lord</power>, I cannot speak to him for <depiction role="weakness" gender="">weeping;
-    My tears</depiction> will choke me, if I ope my mouth.</tone>
+    O <power role="patriarch">Lord</power>, I cannot speak to him for <depiction role="weakness" gender="male">weeping;
+    My tears will choke me,</depiction> if I ope my mouth.</tone>
 <stage>Re-enter attendants with AARON</stage>
   <sp>A ROMAN.</sp> You sad Andronici, have done with woes;
     Give sentence on the execrable wretch
