@@ -1,0 +1,27 @@
+body {
+    background-color: #fafafa;
+}
+h1 {
+    font-weight: bold;
+    color: #242424;
+    text-align: center;
+}
+h2 {
+    font-weight: bold;
+    color: #242424;
+    text-align: center
+    }
+    
+h4 {
+    font-size: 15px;
+    font-style: italic;
+    color: #000080;
+}
+
+p {
+    color: #242424;
+}
+
+li {
+    color: #242424;
+}
