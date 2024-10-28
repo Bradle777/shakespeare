@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
  <!-- 9/26 Added chara name gender, add act number and scene number, stage for directions -->
  <!-- 9/27 Added forematter info tags, and title tags for each scene, some color and depiction -->
-<?xml-model href="../class-studying!/RelaxNG-Schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="RelaxNG-Schema.rnc" type="application/relax-ng-compact-syntax"?>
 <play>
   <meta>
     <created>1594</created>
