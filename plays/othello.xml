@@ -2,17 +2,10 @@
 <?xml-model href="schema_shakespeare.rnc" type="application/relax-ng-compact-syntax"?>
 <play>
 
-<meta>
-
 <!-- Remove this ?*** START OF THE PROJECT GUTENBERG EBOOK OTHELLO, THE MOOR OF VENICE ***-->
-<<<<<<< HEAD
+
 <meta>
 <main_title>OTHELLO, THE MOOR OF VENICE</main_title>
-=======
-<!--add meta element start tag-->
-
-<title>OTHELLO, THE MOOR OF VENICE</title>
->>>>>>> 5326ff2796907677b6f50b29df6d02ac821ca92c
 
 <!-- Remove this? by--> <author>William Shakespeare</author>
     
@@ -46,38 +39,18 @@
 <scene number = "2">Scene II. Cyprus. A Bedchamber in the castle</scene>
 </toc>
     
-<<<<<<< HEAD
 <character_List><!-- Remove this? Dramatis Personæ-->
-=======
-<<<<<<< HEAD:othello.xml
-<characterList>Dramatis Personæ
-    <!-- characterList/ character Name attribute -->
-<chara name = "BRABANTIO" gender = "male">DUKE OF VENICE
-BRABANTIO, a Senator of Venice and Desdemona’s father</chara>
-=======
-<characters><!-- Remove this? Dramatis Personæ-->
->>>>>>> 5326ff2796907677b6f50b29df6d02ac821ca92c
+    <!-- character_List/ character Name attribute -->
+<chara name = "BRABANTIO" gender = "male">DUKE OF VENICE BRABANTIO, a Senator of Venice and Desdemona’s father</chara>
 <!-- Add name attribute -->
 <chara gender = "male">DUKE OF VENICE</chara>
 <chara gender = "male">BRABANTIO, a Senator of Venice and Desdemona’s father</chara>
->>>>>>> 3390690bd5634259e26dd209fe254ff2fac44dd7:plays/othello.xml
 <chara class = "group">Other Senators</chara>
     <!-- Made up a marker for this. -->
 <chara name = "GRATIANO" gender = "male">GRATIANO, Brother to Brabantio</chara>
 <chara name = "LODOVICO" gender = "male">LODOVICO, Kinsman to Brabantio</chara>
 <chara name = "OTHELLO" gender = "male">OTHELLO, a noble Moor in the service of Venice</chara>
     <!--How to refer to this? A character name? A color? A depiction?-->
-<<<<<<< HEAD
-<chara gender = "male">CASSIO, his Lieutenant</chara>
-<chara gender = "male">IAGO, <depiction role = "class">his Ancient</depiction></chara>
-<chara gender = "male">MONTANO, Othello’s predecessor in the government of Cyprus</chara>
-<chara gender = "male">RODERIGO, a Venetian <depiction role = "class">Gentleman</depiction></chara>
-<chara gender = "male">CLOWN, <depiction role = "class">Servant</depiction> to Othello</chara>
-<chara gender = "female">DESDEMONA, Daughter to Brabantio and <depiction role = "wife">Wife</depiction> to Othello</chara>
-<chara gender = "female">EMILIA, <depiction role = "wife">Wife</depiction> to Iago</chara>
-<chara gender = "female">BIANCA, <depiction role = "impure">Mistress</depiction> to Cassio</chara>
-<chara class = "group">Officers, Gentlemen, Messenger, Musicians, Herald, Sailor, Attendants, &amp;c.</chara></character_List>
-=======
 <chara name = "CASSIO" gender = "male">CASSIO, his Lieutenant</chara>
 <chara name = "IAGO" gender = "male">IAGO, his Ancient</chara>
 <chara name = "MONTANO" gender = "male">MONTANO, Othello’s predecessor in the government of Cyprus</chara>
@@ -86,25 +59,14 @@ BRABANTIO, a Senator of Venice and Desdemona’s father</chara>
 <chara name = "DESDEMONA" gender = "female">DESDEMONA, Daughter to Brabantio and Wife to Othello</chara>
 <chara name = "EMILIA" gender = "female">EMILIA, Wife to Iago</chara>
 <chara name = "BIANCA" gender = "female">BIANCA, Mistress to Cassio</chara>
-<chara class = "group">Officers, Gentlemen, Messenger, Musicians, Herald, Sailor, Attendants, &amp;c.</chara></characterList>
->>>>>>> 5326ff2796907677b6f50b29df6d02ac821ca92c
-<!-- Find and replace character names: '[A-Z]+\.$' with '\n<char name = "\0">\0</chara>'-->
-<<<<<<< HEAD:othello.xml
-</meta>
-    
-SCENE: The First Act in Venice; during the rest of the Play at a Seaport in Cyprus.
+<chara class = "group">Officers, Gentlemen, Messenger, Musicians, Herald, Sailor, Attendants, &amp;c.</chara>
+</character_List>
 
-=======
+<!-- Find and replace character names: '[A-Z]+\.$' with '\n<char name = "\0">\0</chara>'-->
 
 <setting>SCENE: The First Act in Venice; during the rest of the Play at a Seaport in Cyprus.</setting>
-<<<<<<< HEAD
 </meta>
 <body>
-=======
-<!-- add meta end tag -->
-<!-- add body start tag -->
->>>>>>> 3390690bd5634259e26dd209fe254ff2fac44dd7:plays/othello.xml
->>>>>>> 5326ff2796907677b6f50b29df6d02ac821ca92c
 <act number = "1">
 <actlabel>ACT I</actlabel>
 <!-- Find '^ACT[IV]+' and replace with "Act Label",  then find everything including the next act label including the current act label and wrap with "Act Number"-->
@@ -112,7 +74,7 @@ SCENE: The First Act in Venice; during the rest of the Play at a Seaport in Cypr
 
 <scene number = "1">
 <scenelabel>SCENE I</scenelabel>. Venice. A street.
-    <!--Same as acts. Find ^SCENE[IV]+ and replace with \n"scenelabel>\0"scenelabel>. Then find everything between "sceenlabel> and [Exit.] or [Exeunt.] Dot matches all. "scenelabel>.+?^[Exeunt.]-->
+    <!--Same as acts. Find ^SCENE[IV]+ and replace with \n"scenelabel>\0"scenelabel>. Then find everything bx`etween "sceenlabel> and [Exit.] or [Exeunt.] Dot matches all. "scenelabel>.+?^[Exeunt.]-->
     <!--ASK!-->
     <!--For my play my organization was 
         <act number="1">
@@ -578,7 +540,7 @@ Of law and course of direct session
 Call thee to answer.</power>
 
 <sp who = "OTHELLO.">OTHELLO.</sp>
-<power class = "class" gender = "male">What if I do obey?
+<power type = "class" gender = "male">What if I do obey?
 How may the duke be therewith satisfied,
 Whose messengers are here about my side,
 Upon some present business of the state,
