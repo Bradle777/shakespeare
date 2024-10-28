@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <play>
+<meta>
 *** START OF THE PROJECT GUTENBERG EBOOK OTHELLO, THE MOOR OF VENICE ***
 
 <title>OTHELLO, THE MOOR OF VENICE</title>
@@ -36,27 +37,29 @@ by <author>William Shakespeare</author>
 <scene number = "1">Scene I. Cyprus. A Street</scene>
 <scene number = "2">Scene II. Cyprus. A Bedchamber in the castle</scene></toc>
     
-<characters>Dramatis Personæ
-<chara gender = "male">DUKE OF VENICE</chara>
-<chara gender = "male">BRABANTIO, a Senator of Venice and Desdemona’s father</chara>
+<characterList>Dramatis Personæ
+    <!-- characterList/ character Name attribute -->
+<chara name = "BRABANTIO" gender = "male">DUKE OF VENICE
+BRABANTIO, a Senator of Venice and Desdemona’s father</chara>
 <chara class = "group">Other Senators</chara>
     <!-- Made up a marker for this. -->
-<chara gender = "male">GRATIANO, Brother to Brabantio</chara>
-<chara gender = "male">LODOVICO, Kinsman to Brabantio</chara>
-<chara gender = "male">OTHELLO, a <depiction role = "class">noble</depiction> <depiction role = "race">Moor</depiction> in the service of Venice</chara>
+<chara name = "GRATIANO" gender = "male">GRATIANO, Brother to Brabantio</chara>
+<chara name = "LODOVICO" gender = "male">LODOVICO, Kinsman to Brabantio</chara>
+<chara name = "OTHELLO" gender = "male">OTHELLO, a noble Moor in the service of Venice</chara>
     <!--How to refer to this? A character name? A color? A depiction?-->
-<chara gender = "male">CASSIO, his Lieutenant</chara>
-<chara gender = "male">IAGO, <depiction role = "class">his Ancient</depiction></chara>
-<chara gender = "male">MONTANO, Othello’s predecessor in the government of Cyprus</chara>
-<chara gender = "male">RODERIGO, a Venetian <depiction role = "class">Gentleman</depiction></chara>
-<chara gender = "male">CLOWN, <depiction role = "class">Servant</depiction> to Othello</chara>
-<chara gender = "female">DESDEMONA, Daughter to Brabantio and <depiction role = "wife">Wife</depiction> to Othello</chara>
-<chara gender = "female">EMILIA, <depiction role = "wife">Wife</depiction> to Iago</chara>
-<chara gender = "female">BIANCA, <depiction role = "impure">Mistress</depiction> to Cassio</chara>
-<chara class = "group">Officers, Gentlemen, Messenger, Musicians, Herald, Sailor, Attendants, &amp;c.</chara></characters>
+<chara name = "CASSIO" gender = "male">CASSIO, his Lieutenant</chara>
+<chara name = "IAGO" gender = "male">IAGO, his Ancient</chara>
+<chara name = "MONTANO" gender = "male">MONTANO, Othello’s predecessor in the government of Cyprus</chara>
+<chara name = "RODERIGO" gender = "male">RODERIGO, a Venetian Gentleman</chara>
+<chara name = "CLOWN" gender = "male">CLOWN, Servant to Othello</chara>
+<chara name = "DESDEMONA" gender = "female">DESDEMONA, Daughter to Brabantio and Wife to Othello</chara>
+<chara name = "EMILIA" gender = "female">EMILIA, Wife to Iago</chara>
+<chara name = "BIANCA" gender = "female">BIANCA, Mistress to Cassio</chara>
+<chara class = "group">Officers, Gentlemen, Messenger, Musicians, Herald, Sailor, Attendants, &amp;c.</chara></characterList>
 <!-- Find and replace character names: '[A-Z]+\.$' with '\n<char name = "\0">\0</chara>'-->
-
-<setting>SCENE: The First Act in Venice; during the rest of the Play at a Seaport in Cyprus.</setting>
+</meta>
+    
+SCENE: The First Act in Venice; during the rest of the Play at a Seaport in Cyprus.
 
 <act number = "1">
 <actlabel>ACT I</actlabel>
@@ -108,7 +111,7 @@ At Rhodes, at Cyprus, and on other grounds,
 Christian and heathen, must be belee’d and calm’d
 By debitor and creditor, this counter-caster,
 He, in good time, must his lieutenant be,
-And I, God bless the mark, his <depiction>Moor</depiction>ship’s ancient.</tone>
+And I, God bless the mark, his <depiction role = "race">Moor</depiction>ship’s ancient.</tone>
 
 <sp chara = "RODERIGO.">RODERIGO.</sp>
 <tone vibe = "anger">By heaven, I rather would have been his hangman.
@@ -1796,7 +1799,7 @@ Drunk?
 Nay, good lieutenant, God’s will, gentlemen.
 Help, ho!—Lieutenant,—sir,—Montano,—sir:—
 Help, masters! Here’s a goodly watch indeed!
-[A bell rings.]
+<stage>[A bell rings.]</stage>
 Who’s that which rings the bell?—Diablo, ho!
 The town will rise. God’s will, lieutenant, hold,
 You will be sham’d forever.
