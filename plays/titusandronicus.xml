@@ -649,7 +649,7 @@
     The cause were known to them it most concerns;
     Nor would your noble mother for much more
     Be so dishonoured in the court of Rome.
-    For <depiction role="inpure" gender="male">shame</depiction>, put up.
+    For <depiction role="impure" gender="male">shame</depiction>, put up.
   <sp who="Demetrius" gender="male">DEMETRIUS.</sp> Not I, till I have sheath'd
     My rapier in his bosom, and withal
     Thrust those reproachful speeches down his throat
@@ -854,7 +854,7 @@
     Jove shield your husband from his hounds to-day!
     'Tis pity they should take him for a stag.
   <sp who="Bassianus" gender="male">BASSIANUS.</sp> <depiction role="race">Believe me, <power role="matriarch">Queen</power>, your swarth Cimmerian
-    Doth make your honour of <color is="black" context="inpure">his body's hue</color>,
+    Doth make your honour of <color is="black" context="impure">his body's hue</color>,
     Spotted, detested, and abominable.</depiction>
     Why are you sequest'red from all your train,
     Dismounted from your <color is="white" context="pure">snow-white goodly steed,</color>
@@ -864,7 +864,7 @@
   <sp who="Lavinia" gender="female">LAVINIA.</sp> And, being intercepted in your sport,
     Great reason that my noble <power role="patriarch">lord</power> be rated
     For sauciness. I pray you let us hence,
-    And <love>let her joy her <color is="black" context="inpure">raven-coloured</color> love</love>;
+    And <love>let her joy her <color is="black" context="impure">raven-coloured</color> love</love>;
     This valley fits the purpose passing well.
   <sp who="Bassianus" gender="male">BASSIANUS.</sp> The King my brother shall have notice of this.
   <sp who="Lavinia" gender="female">LAVINIA.</sp> Ay, for these slips have made him noted long.
@@ -961,7 +961,7 @@
     That <depiction gender="female" role="weakness">womanhood denies my tongue to tell</depiction>:
     O, keep me from their worse than killing <depiction role="predator" gender="male">lust</depiction>,
     And tumble me into some loathsome pit,
-    <depiction role="inpure" gender="female">Where never man's eye may behold my body</depiction>;
+    <depiction role="impure" gender="female">Where never man's eye may behold my body</depiction>;
     Do this, and be a charitable murderer.</tone>
   <sp who="Tamora" gender="female">TAMORA.</sp> <depiction role="villain" gender="female">So should I rob my sweet sons of their fee;
     No, let them <depiction role="predator" gender="male">satisfy their lust on thee</depiction>.</depiction>
@@ -1136,7 +1136,7 @@ This is the hole where Aaron bid us hide him.
     Coming and going with thy honey breath.
     But sure some Tereus hath deflowered thee,
     And, lest thou shouldst detect him, cut thy tongue.
-    Ah, now <depiction role="inpure" gender="female">thou turn'st away thy face for shame</depiction>!
+    Ah, now <depiction role="impure" gender="female">thou turn'st away thy face for shame</depiction>!
     And notwithstanding all this loss of <color is="red" context="death">blood-</color>
     As from a conduit with three issuing spouts-
     Yet do thy cheeks look red as Titan's face
@@ -1192,7 +1192,7 @@ execution, and TITUS going before, pleading</stage>
     <tone vibe="sad">For these, Tribunes, in the dust I write
     My heart's deep languor and my soul's sad tears.
     Let my tears stanch the earth's dry appetite;
-    My sons' <color is="red" context="death">sweet blood </color>will make it <depiction role="inpure">shame and blush.</depiction>
+    My sons' <color is="red" context="death">sweet blood </color>will make it <depiction role="impure">shame and blush.</depiction>
     O earth, I will befriend thee more with rain
     That shall distil from these two ancient urns,
     Than youthful April shall with all his show'rs.
@@ -1250,7 +1250,7 @@ execution, and TITUS going before, pleading</stage>
     Speak, Lavinia, what accursed hand
     Hath made thee handless in thy father's sight?
     What fool hath added water to the sea,
-    Or <depiction role="inpure">brought a fagot</depiction> to bright-burning Troy?
+    Or <depiction role="impure">brought a fagot</depiction> to bright-burning Troy?
     My grief was at the height before thou cam'st,
     And now like Nilus it disdaineth bounds.
     Give me a sword, I'll chop off my <power gender="male">hands</power>too,
@@ -1391,7 +1391,7 @@ execution, and TITUS going before, pleading</stage>
    <power role="aside" gender="male"><stage> [Aside]</stage><depiction role="villain" gender="male"> Their heads I mean. O, how this villainy
     Doth fat me with the very thoughts of it!
     Let fools do good, and <depiction role="pure" gender="male">fair men call for grace</depiction>:
-    <color is="black" context="unpure">Aaron will have his soul black like his face.</color></depiction></power><stage>Exit</stage>
+    <color is="black" context="impure">Aaron will have his soul black like his face.</color></depiction></power><stage>Exit</stage>
   <sp who="Titus Andronicus" gender="male">TITUS.</sp><tone vibe="sad"><depiction role="weakness" gender="male"> O, here I lift this one hand up to heaven,
     And bow this feeble ruin to the earth;
     If any power pities wretched tears</depiction>,
@@ -1483,7 +1483,7 @@ me?
     Farewell, proud Rome; till Lucius come again,
     He leaves his pledges dearer than his life.
     Farewell, Lavinia, my noble sister;
-    <depiction role="inpure" gender="female">O, would thou wert as thou tofore hast been!</depiction>
+    <depiction role="impure" gender="female">O, would thou wert as thou tofore hast been!</depiction>
     But now nor Lucius nor Lavinia lives
     But in oblivion and hateful griefs.
     If Lucius live, he will requite your wrongs
@@ -1563,7 +1563,7 @@ A banquet.
     Poor harmless fly,
     That with his pretty buzzing melody
     Came here to make us merry! And thou hast kill'd him.</depiction>
-  <sp who="Marcus Andronicus" gender="male">MARCUS.</sp> Pardon me, sir; <depiction role="race" gender="male">it was a <color is="black" context="unpure">black</color>ill-favour'd fly,
+  <sp who="Marcus Andronicus" gender="male">MARCUS.</sp> Pardon me, sir; <depiction role="race" gender="male">it was a <color is="black" context="impure">black</color>ill-favour'd fly,
     Like to the Empress' Moor; therefore I kill'd him.</depiction>
   <sp who="Titus Andronicus" gender="male">TITUS.</sp> O, O, O!
     <depiction role="race" gender="male">Then pardon me for reprehending thee,
@@ -1575,7 +1575,7 @@ A banquet.
     Ah, sirrah!
     <depiction role="race" gender="male">Yet, I think, we are not brought so low
     But that between us we can kill a fly
-    That comes in likeness of a <color is="black" context="dirty">coal-black</color> Moor.</depiction></depiction>
+    That comes in likeness of a <color is="black" context="impure">coal-black</color> Moor.</depiction></depiction>
   <sp who="Marcus Andronicus" gender="male">MARCUS.</sp> Alas, poor man! grief has so wrought on him,
     He takes false shadows for true substances.
   <sp who="Titus Andronicus" gender="male">TITUS.</sp> Come, take away. Lavinia, go with me;
@@ -1788,7 +1788,7 @@ over.</power>
   <sp who="Demetrius" gender="male">DEMETRIUS.</sp> Why do the Emperor's trumpets flourish thus?
   <sp who="Chiron" gender="male">CHIRON.</sp> Belike, for joy the Emperor hath a son.
   <sp who="Demetrius" gender="male">DEMETRIUS.</sp> Soft! who comes here?
-<stage>Enter NURSE, with a <color is="black" context="dirty">blackamoor</color> CHILD</stage>
+<stage>Enter NURSE, with a <color is="black" context="impure">blackamoor</color> CHILD</stage>
   <sp>NURSE.</sp> Good morrow, <power role="patriarch">lords</power>.
     O, tell me, did you see Aaron the Moor?
   <sp who="Aaron" gender="male">AARON.</sp> Well, more or less, or ne'er a whit at all,
@@ -1798,7 +1798,7 @@ over.</power>
   <sp who="Aaron" gender="male">AARON.</sp> Why, what a caterwauling dost thou keep!
     What dost thou wrap and fumble in thy arms?
   <sp>NURSE.</sp><depiction role="race"> O, that which I would hide from heaven's eye:
-    <depiction role="inpure" gender="female">Our Empress' shame and stately Rome's disgrace!</depiction></depiction>
+    <depiction role="impure" gender="female">Our Empress' shame and stately Rome's disgrace!</depiction></depiction>
     She is delivered, <power role="patriarch">lord</power>; she is delivered.
   <sp who="Aaron" gender="male">AARON.</sp> To whom?
   <sp>NURSE.</sp> I mean she is brought a-bed.
@@ -1811,7 +1811,7 @@ over.</power>
     Amongst the <color is="white" context="pure">fair-fac'd</color> breeders of our clime;
     The <power role="matriarch">Empress</power> sends it thee, thy stamp, thy seal,
     And bids thee christen it with thy dagger's point.
-  <sp who="Aaron" gender="male">AARON.</sp><violence type="insult"> Zounds, ye whore!</violence> Is<color is="black" context="dirty">black so base a hue?</color>
+  <sp who="Aaron" gender="male">AARON.</sp><violence type="insult"> Zounds, ye whore!</violence> Is<color is="black" context="impure">black so base a hue?</color>
     Sweet blowse, you are a beauteous blossom sure.
   <sp who="Demetrius" gender="male">DEMETRIUS.</sp> Villain, what hast thou done?
   <sp who="Aaron" gender="male">AARON.</sp> That which thou canst not undo.
@@ -1840,10 +1840,10 @@ over.</power>
     Shall seize this prey out of his father's hands.
     What, what, ye sanguine, shallow-hearted boys!
     Ye <color is="white" context="naive"></color> walls! ye alehouse painted signs!
-    <color is="black" context="unpure">Coal-black</color> is better than another hue
+    <color is="black" context="impure">Coal-black</color> is better than another hue
     In that it scorns to bear another hue;
-    <depiction role="inpure" gender="male">For all the water in the ocean
-    Can never turn the swan's<color is="black" context="unpure">black</color>legs to <color is="white" context="pure">white</color>,
+    <depiction role="impure" gender="male">For all the water in the ocean
+    Can never turn the swan's<color is="black" context="impure">black</color>legs to <color is="white" context="pure">white</color>,
     Although she lave them hourly in the flood.</depiction>
     Tell the <power role="matriarch">Empress</power> from me I am of age
     To keep mine own- excuse it how she can.
@@ -1853,7 +1853,7 @@ over.</power>
     This before all the world do I prefer;
     This maugre all the world will I keep safe,
     Or some of you shall smoke for it in Rome.</depiction>
-    <sp who="Demetrius" gender="male">DEMETRIUS.</sp><depiction role="inpure" gender="female"> By this our mother is for ever sham'd.</depiction>
+    <sp who="Demetrius" gender="male">DEMETRIUS.</sp><depiction role="impure" gender="female"> By this our mother is for ever sham'd.</depiction>
   <sp who="Chiron" gender="male">CHIRON.</sp><depiction role="villain" gender="female"> Rome will despise her</depiction> for this foul escape.
   <sp>NURSE.</sp> The <power role="patriarch">Emperor</power> in his rage will doom her death.
   <sp who="Chiron" gender="male">CHIRON.</sp> I blush to think upon this ignomy.
@@ -1861,14 +1861,14 @@ over.</power>
     Fie, treacherous hue, that will betray with blushing
     The close enacts and counsels of thy heart!
     Here's a young lad fram'd of another leer.
-    Look how the<color is="black" context="dirty">black</color>slave smiles upon the father,
+    Look how the<color is="black" context="impure">black</color>slave smiles upon the father,
     As who should say 'Old lad, I am thine own.'
     He is your brother, <power role="patriarch">lords</power>, sensibly fed
     Of that self-<color is="red" context="death">blood </color>that first gave life to you;
     And from your womb where you imprisoned were
     He is enfranchised and come to light.
     Nay, he is your brother by the surer side,
-    <depiction role="race">Although <color is="black" context="dirty">my seal</color> be stamped in his face.</depiction>
+    <depiction role="race">Although <color is="black" context="impure">my seal</color> be stamped in his face.</depiction>
   <sp>NURSE.</sp> Aaron, what shall I say unto the <power role="matriarch">Empress</power>?
   <sp who="Demetrius" gender="male">DEMETRIUS.</sp> Advise thee, Aaron, what is to be done,
     And we will all subscribe to thy advice.
@@ -2212,11 +2212,11 @@ fair
     I made unto the noise, when soon I heard
     The crying babe controll'd with this discourse:
     <depiction role="race" gender="male">'Peace, tawny slave, half me and half thy dame!</depiction>
-    Did not thy <color is="black" context="dirty">hue</color> bewray whose brat thou art,
+    Did not thy <color is="black" context="impure">hue</color> bewray whose brat thou art,
     <power role="weakness" gender="male"><depiction role="race" gender="male">Had nature lent thee but thy mother's look,</depiction>
     <depiction role="villain" gender="male">Villain</depiction>, thou mightst have been an emperor;</power>
     But where the bull and cow are both <color is="white" context="pure">milk-white</color>,
-    They never do beget a <color is="black" context="dirty">coal-black</color> calf.
+    They never do beget a <color is="black" context="impure">coal-black</color> calf.
     <depiction role="villain" gender="male">Peace, villain, peace!</depiction>'- even thus he rates the babe-
     <depiction role="protector" gender="male">'For I must bear thee to a trusty Goth,
     Who, when he knows thou art the <power role="matriarch">Empress'</power> babe,
@@ -2537,16 +2537,16 @@ abide
     Sirs, stop their mouths, let them not speak to me;
     But let them hear what fearful words I utter.
     O villains, Chiron and Demetrius!
-    <depiction role="inpure" gender="female">Here stands the spring whom you have stain'd with mud;
+    <depiction role="impure" gender="female">Here stands the spring whom you have stain'd with mud;
     This goodly summer with your winter mix'd.</depiction>
     You kill'd her husband; and for that vile fault
     Two of her brothers were condemn'd to death,
     My hand cut off and made a merry jest;
     Both her sweet hands, her tongue, and that more dear
-    Than hands or tongue, <depiction role="inpure" gender="female">her spotless chastity,</depiction>
+    Than hands or tongue, <depiction role="impure" gender="female">her spotless chastity,</depiction>
     <depiction role="villain" gender="male">Inhuman traitors</depiction>, you constrain'd and forc'd.
     What would you say, if I should let you speak?
-    Villains, for <depiction role="inpure" gender="male">shame</depiction> you could not beg for grace.
+    Villains, for <depiction role="impure" gender="male">shame</depiction> you could not beg for grace.
     Hark, wretches! how I mean to martyr you.
     This one hand yet is left to <violence type="murder">cut your throats,</violence>
     Whiles that Lavinia 'tween her stumps doth hold
@@ -2556,7 +2556,7 @@ abide
     Hark, villains! I will grind your bones to dust,
     And with your <color is="red" context="death">blood </color>and it I'll make a paste;
     And of the paste a coffin I will rear,
-    And make two pasties of your <depiction role="inpure" gender="male">shameful</depiction> heads;
+    And make two pasties of your <depiction role="impure" gender="male">shameful</depiction> heads;
     And bid that strumpet, your unhallowed dam,
     Like to the earth, swallow her own increase.
     This is the feast that I have bid her to,
@@ -2622,18 +2622,18 @@ abide
   <sp who="Tamora" gender="female">TAMORA.</sp> We are beholding to you, good Andronicus.
   <sp who="Titus Andronicus" gender="male">TITUS.</sp> An if your Highness knew my heart, you were.
     My <power role="patriarch">lord the Emperor,</power> resolve me this:
-    <depiction gender="female" role="inpure">Was it well done of rash Virginius
+    <depiction gender="female" role="impure">Was it well done of rash Virginius
     To slay his daughter with his own right hand,
     Because she was enforc'd, stain'd, and deflower'd?</depiction>
   <sp who="Saturninus" gender="male">SATURNINUS.</sp> It was, Andronicus.
   <sp who="Titus Andronicus" gender="male">TITUS.</sp> Your reason, <power role="patriarch">mighty lord</power>.
-  <sp who="Saturninus" gender="male">SATURNINUS.</sp> Because <depiction role="inpure" gender="female">the girl should not survive her shame,
+  <sp who="Saturninus" gender="male">SATURNINUS.</sp> Because <depiction role="impure" gender="female">the girl should not survive her shame,
     And by her presence still renew his sorrows.</depiction>
   <sp who="Titus Andronicus" gender="male">TITUS.</sp> A reason mighty, strong, and effectual;
     A pattern, precedent, and lively warrant
     For me, most wretched, to perform the like.
-    <violence type="murder">Die, die, Lavinia, and thy <depiction role="inpure" gender="female">shame</depiction> with thee;<stage> [He kills her]</stage>
-    And with thy <depiction role="inpure" gender="female">shame</depiction> thy father's sorrow die!</violence>
+    <violence type="murder">Die, die, Lavinia, and thy <depiction role="impure" gender="female">shame</depiction> with thee;<stage> [He kills her]</stage>
+    And with thy <depiction role="impure" gender="female">shame</depiction> thy father's sorrow die!</violence>
   <sp who="Saturninus" gender="male">SATURNINUS.</sp> What hast thou done, <depiction role="insanity" gender="male">unnatural and unkind?</depiction>
   <sp who="Titus Andronicus" gender="male">TITUS.</sp><violence type="murder"> Kill'd her for whom my <depiction role="weakness" gender="male">tears have made me blind.</depiction></violence>
     <tone vibe="sad">I am as woeful as Virginius was,
