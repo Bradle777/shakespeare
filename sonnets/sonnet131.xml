@@ -2,19 +2,22 @@
 <sonnet><main_title>Sonnet 131</main_title>
 <author>Shakespeare</author>
 <body>
-<l/>Thou art as tyrannous, so as thou art,
-<l/>As those whose beauties proudly make them cruel;
-<l/>For well thou know’st to my dear doting heart
-<l/>Thou art the fairest and most precious jewel.
+<l/><depiction role="villain">Thou art as tyrannous</depiction>, so as thou art,
+<l/>As those whose <depiction role="villain">beauties proudly make them cruel</depiction>;
+<l/><tone vibe="romantic">For well thou know’st to <love action="verbal">my dear doting heart
+<l/>Thou art the <depiction role="beauty">fairest and most precious jewel.</depiction></love>
 <l/>Yet in good faith some say that thee behold,
-<l/>Thy face hath not the power to make love groan;
-<l/>To say they err I dare not be so bold,
-<l/>Although I swear it to myself alone.
+<l/><violence type="insult">Thy face hath not the power to make love groan;</violence>
+<l/><depiction role="weakness">To say they err I dare not be so bold,
+<l/>Although I swear it to myself alone.</depiction>
 <l/>And, to be sure that is not false I swear,
 <l/>A thousand groans, but thinking on thy face,
 <l/>One on another’s neck do witness bear
-<l/>Thy black is fairest in my judgment’s place.
-<l/>In nothing art thou black save in thy deeds,
-<l/>And thence this slander as I think proceeds.
+<l/><love action="verbal">Thy <color is="black" context="pure">black</color> is fairest in my judgment’s place.</love>
+<l/>In nothing art thou <color is="black" context="impure">black</color> <depiction role="villain">save in thy deeds,</depiction>
+<l/>And thence <violence type="insult">this slander as I think proceeds.</violence></tone>
 </body>
 </sonnet>
+<!--He seems to be reffering to the lady of the previous Sonnet 130, but no gender is mentioned, gay? 
+He is very clearly in love with this person, but does so privately, shown by his weakness to not speak aloud-->
+<!--https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/read/131/ -->
