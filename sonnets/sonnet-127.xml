@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<poem>
+    <number-title>CXXVII</number-title>
+In the old age <color is="black" context="appearance">black</color> was not counted <color is="black" conetxt="beauty">fair</color>,
+    <!--Context="beauty" a change from the first poem, just an attribute I think this tag needs in all (poem) cases.-->
+Or if it were, it <depiction role="impure">bore not <chara name="beauty" gender="???">beauty’s</chara> name</depiction>;
+<depiction>But now is <color is="black" context="appearance">black</color><chara name="beauty" gender="???">beauty’s</chara> 
+    <power role="class">successive heir</power>,</depiction>
+And <chara name="beauty" gender="???">beauty</chara> <violence type="insult">slander’d with a 
+    <power role="class">bastard</power> shame</violence>:
+For since <power role="impure">each hand hath put on Nature’s power</power>,
+<power><color is="white" context="beauty">Fairing</color> the foul</power> with Art’s false borrowed face,
+<depiction>Sweet <chara name="beauty" gender="???">beauty</chara> <power>hath no name, no holy bower,
+But is profan’d, if not lives in disgrace.</power></depiction>
+Therefore <chara name="speaker" gender="male">my</chara> <chara name="subject" gender="female">mistresses</chara>’ 
+    eyes are <color is="black" context="beauty">raven black</color>,
+    <!--Added attribute "beauty" helps with capturing the shift here.-->
+<chara name="subject" gender="female">Her</chara> eyes <depiction>so suited, and they mourners seem</depiction>
+At such who, <depiction>not born <color is="white" context="appearance">fair</color>, no beauty lack,</depiction>
+<power>Sland’ring creation with a false esteem</power>:
+Yet <depiction>so <chara name="exampletype">they</chara> mourn becoming of <chara name="exampletype">their</chara> 
+    woe,</depiction>
+<love>That every tongue says beauty should look so.</love>
+    <!--Physical-love, Compliment attribute?-->
+<!--Have to capture the shift here. The twist of the conceit he is describing, black turned fair.
+    Power, may be helpful again here. The sonnet's give power to certain ideas by subverting expectations,
+    "black" gains its power here by subverting the supremacy of purity in beauty...
+    we could maybe add this or a similar attribute to capture these points?-->
+</poem>

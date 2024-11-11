@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<poem>
+    <number-title>XVIII</number-title>
+Shall <chara name="speaker" gender="male">I</chara> compare <chara name="subject" gender="female">thee</chara> to a summer’s day?
+<chara name="subject" gender="female">Thou</chara> art <depiction>more lovely</depiction> and <depiction>more temperate</depiction>:
+    <!--add a more neutral depiction, for something like beauty, compliment, lover, etc.-->
+Rough winds do shake the darling buds of May,
+And summer’s lease hath all too short a date:
+Sometime too hot the eye of heaven shines,
+And often is <chara name="sun" gender="male">his</chara> <depiction>gold complexion dimm’d</depiction>,
+And every <color is="white" context="purity">fair</color> from <color is="white" context="purity">fair</color> <depiction>sometime declines</depiction>,
+    <!--add an attribute for "fair" that is simply beauty-->
+By chance, or nature’s changing course untrimm’d:
+But <chara name="subject" gender="female">thy</chara> eternal summer <depiction>shall not fade</depiction>,
+<tone vibe="romantic">Nor lose possession of that <color is ="white" context="purity">fair</color> 
+    <chara name="subject" gender="female">thou</chara> ow’st,</tone>
+    <!--not sure what to do with some of these. it's important but doesn't fit all of our words. 
+        Almost seems like we should make a new schema for the poems. But on the other hand, if we are just able to make them
+        fit instead, I think the poems could be a great example case for the work of the rest of the project
+        (especially for presentation purposes).-->
+Nor shall <chara name="death" gender="male">death</chara> brag <chara name="subject" gender="female">thou</chara> 
+    wander’st in <chara name="death" gender="male">his</chara> <color is="dark" context="death">shade</color>,
+    <!--Color tag for basic darkness (thematic sense). When it represents just darkness, negative vibes.-->
+When in eternal lines to time <chara name="subject" gender="female">thou</chara> grow’st,
+So long as men can breathe, or eyes can see,
+So long lives this, and this gives life to <chara name="subject" gender="female">thee</chara>.<power></power>
+    <!-- I feel like this is an important aspect of the sonnets, especially this one, one of the characters is the speaker
+        who is the author and thus has "power" outside of the poem in the shaping of the poem to make it what he wants. 
+        To even give the subject immortality.-->
+</poem>
+
+<!--sourced from Project Gutenberg (https://www.gutenberg.org/cache/epub/1041/pg1041-images.html) -->
