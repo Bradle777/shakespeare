@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sonnet>
-<main_title>Sonnet 132</main_title>
+<?xml-model href="schema_sonnets.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+<number-title>Sonnet 132</number-title>
 <author>Shakespeare</author>
 <body>
-<l/><love action="love">Thine eyes I love,</love> and they, as pitying me,
-<l/><tone vibe="sad">Knowing thy heart torment me with disdain,
-<l/>Have put on <color is="black" context="grief">black</color>, and loving mourners be,
-<l/><depiction role="villain">Looking with pretty ruth upon my pain.</depiction>
-<l/>And truly not the morning sun of heaven
-<l/>Better becomes the <color is="gray" context="appearance">gray</color> cheeks of the east,
-<l/>Nor that full star that ushers in the even
-<l/>Doth half that glory to the sober west
-<l/>As those two mourning eyes become thy face.
-<l/>O, let it then as well beseem thy heart
-<l/>To mourn for me, since mourning doth thee grace,
-<l/>And suit thy pity like in every part.</tone>
-<l/>Then will I swear beauty herself is <color is="black" context="race">black</color>,
-<l/>And all <depiction role="impure">they foul that thy complexion lack.
+<love action="love">Thine eyes I love,</love> and they, as pitying me,
+<tone vibe="sad">Knowing thy heart torment me with disdain,
+Have put on <color is="black" context="grief">black</color>, and loving mourners be,
+<depiction role="villain">Looking with pretty ruth upon my pain.</depiction>
+And truly not the morning sun of heaven
+Better becomes the <color is="gray" context="appearance">gray</color> cheeks of the east,
+Nor that full star that ushers in the even
+Doth half that glory to the sober west
+As those two mourning eyes become thy face.
+O, let it then as well beseem thy heart
+To mourn for me, since mourning doth thee grace,
+And suit thy pity like in every part.</tone>
+Then will I swear beauty herself is <color is="black" context="race">black</color>,
+And all <depiction role="impure">they foul that thy complexion lack.
 </depiction></body>
-</sonnet>
+</poem>
 <!-- https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/read/132/ -->
 <!-- the whole sonnet seems to be about the lady previously mentioned mourning for him -->

@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sonnet><main_title>Sonnet 130</main_title>
+<?xml-model href="schema_sonnets.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+    <number-title>Sonnet 130</number-title>
 <author>Shakespeare</author>
 <body>
-<l/><depiction role="object" gender="female">My mistress’</depiction> eyes are nothing like the sun;
-<l/>Coral is far more <color is="red" context="appearance">red than her lips’ red;</color>
-<l/>If snow be <color is="white" context="pure">white</color>, why then <depiction role="impure" gender="female">her breasts are dun</depiction>;
-<l/>If hairs be wires, <color is="black" context="appearance">black</color> wires grow on her head.
-<l/>I have seen roses damasked, <color is="red" context="rose">red</color> and <color is="white" context="rose">white</color>,
-<l/>But <depiction role="immpure" gender="female">no such roses see I in her cheeks;</depiction>
-<l/>And in some perfumes is there more delight
-<l/>Than in the <violence type="insult" gender="female">breath that from my mistress reeks</violence>.
-<l/><love action="verbal">I love to hear her speak</love>, yet well I know
-<l/>That <violence type="insult" gender="female">music hath a far more pleasing sound.</violence>
-<l/>I grant I never saw a <power gender="female">goddess</power> go;
-<l/><depiction role="object" gender="female">My mistress</depiction>, when she walks, treads on the ground.
-<l/>And yet, by heaven, <love action="verbal">I think my love as rare
-<l/><depiction role="respect">As any she belied with false compare.</depiction></love>
+<depiction role="object" gender="female">My mistress’</depiction> eyes are nothing like the sun;
+Coral is far more <color is="red" context="appearance">red than her lips’ red;</color>
+If snow be <color is="white" context="pure">white</color>, why then <depiction role="impure" gender="female">her breasts are dun</depiction>;
+If hairs be wires, <color is="black" context="appearance">black</color> wires grow on her head.
+I have seen roses damasked, <color is="red" context="rose">red</color> and <color is="white" context="rose">white</color>,
+But <depiction role="immpure" gender="female">no such roses see I in her cheeks;</depiction>
+And in some perfumes is there more delight
+Than in the <violence type="insult" gender="female">breath that from my mistress reeks</violence>.
+<love action="verbal">I love to hear her speak</love>, yet well I know
+That <violence type="insult" gender="female">music hath a far more pleasing sound.</violence>
+I grant I never saw a <power gender="female">goddess</power> go;
+<depiction role="object" gender="female">My mistress</depiction>, when she walks, treads on the ground.
+And yet, by heaven, <love action="verbal">I think my love as rare
+<depiction role="respect">As any she belied with false compare.</depiction></love>
 </body>
-</sonnet>
+</poem>
 <!-- The whole sonnet he seems to insult her and define her as different and almost less than, yet the final line 
 shows that despite all that she is still beautiful-->
 <!-- https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/read/130/ -->

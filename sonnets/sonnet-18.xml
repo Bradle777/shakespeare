@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema_sonnets.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
     <number-title>XVIII</number-title>
-Shall <chara name="speaker" gender="male">I</chara> compare <chara name="subject" gender="female">thee</chara> to a summer’s day?
+<body>Shall <chara name="speaker" gender="male">I</chara> compare <chara name="subject" gender="female">thee</chara> to a summer’s day?
 <chara name="subject" gender="female">Thou</chara> art <depiction>more lovely</depiction> and <depiction>more temperate</depiction>:
     <!--add a more neutral depiction, for something like beauty, compliment, lover, etc.-->
 Rough winds do shake the darling buds of May,
@@ -23,7 +24,7 @@ Nor shall <chara name="death" gender="male">death</chara> brag <chara name="subj
     <!--Color tag for basic darkness (thematic sense). When it represents just darkness, negative vibes.-->
 When in eternal lines to time <chara name="subject" gender="female">thou</chara> grow’st,
 So long as men can breathe, or eyes can see,
-So long lives this, and this gives life to <chara name="subject" gender="female">thee</chara>.<power></power>
+So long lives this, and this gives life to <chara name="subject" gender="female">thee</chara>.<power></power></body>
     <!-- I feel like this is an important aspect of the sonnets, especially this one, one of the characters is the speaker
         who is the author and thus has "power" outside of the poem in the shaping of the poem to make it what he wants. 
         To even give the subject immortality.-->

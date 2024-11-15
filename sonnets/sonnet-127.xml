@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema_sonnets.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
     <number-title>CXXVII</number-title>
-In the old age <color is="black" context="appearance">black</color> was not counted <color is="black" conetxt="beauty">fair</color>,
+<body>In the old age <color is="black" context="appearance">black</color> was not counted <color is="black" context="beauty">fair</color>,
     <!--Context="beauty" a change from the first poem, just an attribute I think this tag needs in all (poem) cases.-->
 Or if it were, it <depiction role="impure">bore not <chara name="beauty" gender="???">beauty’s</chara> name</depiction>;
 <depiction>But now is <color is="black" context="appearance">black</color><chara name="beauty" gender="???">beauty’s</chara> 
@@ -20,7 +21,7 @@ At such who, <depiction>not born <color is="white" context="appearance">fair</co
 <power>Sland’ring creation with a false esteem</power>:
 Yet <depiction>so <chara name="exampletype">they</chara> mourn becoming of <chara name="exampletype">their</chara> 
     woe,</depiction>
-<love>That every tongue says beauty should look so.</love>
+<love>That every tongue says beauty should look so.</love></body>
     <!--Physical-love, Compliment attribute?-->
 <!--Have to capture the shift here. The twist of the conceit he is describing, black turned fair.
     Power, may be helpful again here. The sonnet's give power to certain ideas by subverting expectations,

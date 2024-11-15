@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema_sonnets.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
    <number-title> CXLIV</number-title>
-Two loves <chara name="speaker" gender="male">I</chara> have of comfort and despair,
+<body>Two loves <chara name="speaker" gender="male">I</chara> have of comfort and despair,
 Which <power>like two spirits do suggest me still:</power>
 The <depiction>better angel</depiction> is a <chara name="male-lover" gender="male">man</chara> <color is="white" context="purity">right fair</color>,
-The <gender>worser spirit</gender> a <chara name="male-lover" gender="female">woman</chara> 
+The <!-- gender element? --><gender>worser spirit</gender> a <chara name="male-lover" gender="female">woman</chara> 
     <color is="black" context="impure">colour’d ill</color>.
 <violence>To win <chara name="speaker" gender="male">me</chara> soon to hell</violence>, 
     <chara name="female-lover" gender="female">my female evil</chara>,
@@ -17,5 +18,5 @@ Suspect <chara name="speaker" gender="male">I</chara> may, yet not directly tell
 <chara name="speaker" gender="male">I</chara> guess one angel in another’s hell:
 <power>Yet this shall <chara name="speaker" gender="male">I</chara> ne’er know, but live in doubt</power>,
 <power>Till <chara name="female-lover" gender="female">my bad angel</chara> fire 
-    <chara name="male-lover" gender="male">my good one</chara> out</power>.
+    <chara name="male-lover" gender="male">my good one</chara> out</power>.</body>
 </poem>
