@@ -9,12 +9,12 @@ body {
     border-collapse: collapse;
     border-spacing: 0;
 }
-/* need to figure out how to make it align fully on the left side of the screen + get rid of white breaks in between repeat images */
 
 /* START main navbar */
 .navbar {
   list-style-type: none;
   padding: 0px;
+  margin: 10px 10px 20px 0px;
   overflow: hidden;
   background-color: #1F818C; 
   width: 100%;
