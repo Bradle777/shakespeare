@@ -1,6 +1,7 @@
 body {
-    background-color: #BFBDB4;
+    background-image: url('globe.jpg');
 }
+
 /* START main navbar */
 .navbar {
   list-style-type: none;
