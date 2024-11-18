@@ -1,12 +1,20 @@
 body {
     background-image: url('globe.jpg');
+    height: 100%;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+    display: block;
+    float: left;
+    border-collapse: collapse;
+    border-spacing: 0;
 }
+/* need to figure out how to make it align fully on the left side of the screen + get rid of white breaks in between repeat images */
 
 /* START main navbar */
 .navbar {
   list-style-type: none;
   padding: 0px;
-  margin: auto;
   overflow: hidden;
   background-color: #1F818C; 
   width: 100%;
@@ -16,7 +24,6 @@ body {
 .navbar a {
   list-style-type: none;
   padding: 0px;
-  margin: auto;
   float: left;
   display: block;
   color: white;
@@ -63,7 +70,6 @@ h1 {
     color: white;
     text-align: center;
     margin: 15px 175px 0px 175px;
-    padding: 5px 15px 5px 15px;
 }
 h2 {
     background-color: #5E6A8C;
@@ -73,7 +79,6 @@ h2 {
     color: white;
     text-align: center;
     margin: 15px 75px 0px 75px;
-    padding: 5px 15px 5px 15px;
 }   
 h3 {
     background-color: #5E6A8C;
