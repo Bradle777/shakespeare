@@ -28,12 +28,12 @@
                 <div class="text_navbar">
                     <a href="titus-andronicus-html.xhtml">Titus Andronicus</a>
                     <a href="othello-html.xhtml">Othello</a>
-                    <a href="">Sonnet 18</a>
-                    <a href="">Sonnet 127</a>
-                    <a href="">Sonnet 130</a>
-                    <a href="">Sonnet 131</a>
-                    <a href="">Sonnet 132</a>
-                    <a href="">Sonnet 144</a>
+                    <a href="sonnet18-html.xhtml">Sonnet 18</a>
+                    <a href="sonnet127-html.xhtml">Sonnet 127</a>
+                    <a href="sonnet130-html.xhtml">Sonnet 130</a>
+                    <a href="sonnet131-html.xhtml">Sonnet 131</a>
+                    <a href="sonnet132-html.xhtml">Sonnet 132</a>
+                    <a href="sonnet144-html.xhtml">Sonnet 144</a>
                 </div>
                 <!--END Basic html structure for every text page=======================-->
                 
@@ -81,4 +81,20 @@
     <xsl:template match="//stage">
         <span class="stage"><xsl:apply-templates/></span>
     </xsl:template>
+    
+    <!-- ============Transoformation for sonnets==========-->
+    <xsl:template match="poem">
+        <div class="text"><xsl:apply-templates/></div>
+    </xsl:template>
+    <xsl:template match="number-title">
+        <h5><xsl:apply-templates/></h5>
+    </xsl:template>
+    <xsl:template match="body">
+        <div class="scene"><!-- Though scene may not be the right name in context of the sonnets, it has the right css stlying and structure -->
+            <xsl:apply-templates/>
+        </div>
+    </xsl:template>
+    
+    
+    
 </xsl:stylesheet>
