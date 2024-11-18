@@ -1,7 +1,7 @@
 body {
     background-color: #BFBDB4;
 }
-
+/* START main navbar */
 .navbar {
   overflow: hidden;
   background-color: #1F818C;
@@ -21,7 +21,31 @@ body {
   background: #ddd;
   color: black;
 }
+/* END main navbar */
+/* START text navbar */
+.text_navbar {
+  overflow: hidden;
+  background-color: #1F818C;
+  position: fixed; 
+  margin: 50px 1000px 50px 15px ;
+  width: 10%;
+}
+.text_navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: left;
+  padding: 15px 20px;
+  text-decoration: none;
+}
+.text_navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+/* END text navbar */
 
+/* h1-4 style the headings of the manual html pages, 
+ * h5 is used to style the headings within the xslt transformed xml*/
 h1 {
     background-color: #5E6A8C;
     font-weight: bold;
@@ -29,7 +53,7 @@ h1 {
     font-family: courier, monospace;
     color: white;
     text-align: center;
-    margin: 15px 150px 0px 150px;
+    margin: 15px 175px 0px 175px;
     padding: 5px 15px 5px 15px;
 }
 h2 {
@@ -58,6 +82,16 @@ h4 {
     margin: 25px 1350px 25px 15px;
     padding: 5px 15px 5px 15px;
 }
+h5 {
+    background-color: #5E6A8C;
+    font-size: 25px;
+    font-style: italic;
+    font-family: courier, monospace;
+    color: white;
+    text-align: center;
+    margin:0px 15% 0px 15%;
+    padding:2px 5% 2px 5%;
+}
 
 p {
     background-color: #F2F2EB;
@@ -82,3 +116,32 @@ table, th, td {
     margin: 15px 600px 0px 30px;
     padding: 5px 15px 5px 10px;
 }
+/* ========START Corpus styling =======*/
+div[class="text"] {
+    background-color: #F2F2EB;
+    color: #333333;
+    display: block;
+    width: 78%;
+    margin: 20px 5% 10px 15%;
+    padding: 2%;
+    text-align: justify;
+} 
+
+div[class="scene"], div[class="meta"] {
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    margin: 2%;
+    padding: 15px 5px 15px 5px;
+} 
+
+
+
+sp {
+    font-weight: bold;
+}
+span[class="stage"] {
+    font-style: italic;
+}
+
+/* ======END Corpus styling===== */
