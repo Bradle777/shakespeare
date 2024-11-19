@@ -2,26 +2,26 @@
 <?xml-model href="schema_sonnets.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
     <number-title>CXXVII</number-title>
-<body>In the old age <color is="black" context="appearance">black</color> was not counted <color is="black" context="beauty">fair</color>,
+    <body>In the old age <color is="black" context="appearance">black</color> was not counted <color is="black" context="beauty">fair</color>,<l/><br/><br/>
     <!--Context="beauty" a change from the first poem, just an attribute I think this tag needs in all (poem) cases.-->
-Or if it were, it <depiction role="impure">bore not <chara name="beauty" gender="???">beauty’s</chara> name</depiction>;
+        Or if it were, it <depiction role="impure">bore not <chara name="beauty" gender="???">beauty’s</chara> name</depiction>;<l/><br/><br/>
 <depiction>But now is <color is="black" context="appearance">black</color><chara name="beauty" gender="???">beauty’s</chara> 
-    <power role="class">successive heir</power>,</depiction>
+    <power role="class">successive heir</power>,</depiction><l/><br/><br/>
 And <chara name="beauty" gender="???">beauty</chara> <violence type="insult">slander’d with a 
-    <power role="class">bastard</power> shame</violence>:
-For since <power role="impure">each hand hath put on Nature’s power</power>,
-<power><color is="white" context="beauty">Fairing</color> the foul</power> with Art’s false borrowed face,
-<depiction>Sweet <chara name="beauty" gender="???">beauty</chara> <power>hath no name, no holy bower,
-But is profan’d, if not lives in disgrace.</power></depiction>
+    <power role="class">bastard</power> shame</violence>:<l/><br/><br/>
+        For since <power role="impure">each hand hath put on Nature’s power</power>,<l/><br/><br/>
+        <power><color is="white" context="beauty">Fairing</color> the foul</power> with Art’s false borrowed face,<l/><br/><br/>
+        <depiction>Sweet <chara name="beauty" gender="???">beauty</chara> <power>hath no name, no holy bower,<l/><br/><br/>
+            But is profan’d, if not lives in disgrace.</power></depiction><l/><br/><br/>
 Therefore <chara name="speaker" gender="male">my</chara> <chara name="subject" gender="female">mistresses</chara>’ 
-    eyes are <color is="black" context="beauty">raven black</color>,
+        eyes are <color is="black" context="beauty">raven black</color>,<l/><br/><br/>
     <!--Added attribute "beauty" helps with capturing the shift here.-->
-<chara name="subject" gender="female">Her</chara> eyes <depiction>so suited, and they mourners seem</depiction>
-At such who, <depiction>not born <color is="white" context="appearance">fair</color>, no beauty lack,</depiction>
-<power>Sland’ring creation with a false esteem</power>:
+        <chara name="subject" gender="female">Her</chara> eyes <depiction>so suited, and they mourners seem</depiction><l/><br/><br/>
+        At such who, <depiction>not born <color is="white" context="appearance">fair</color>, no beauty lack,</depiction><l/><br/><br/>
+        <power>Sland’ring creation with a false esteem</power>:<l/><br/><br/>
 Yet <depiction>so <chara name="exampletype">they</chara> mourn becoming of <chara name="exampletype">their</chara> 
-    woe,</depiction>
-<love>That every tongue says beauty should look so.</love></body>
+    woe,</depiction><l/><br/><br/>
+        <love>That every tongue says beauty should look so.</love><l/><br/><br/></body>
     <!--Physical-love, Compliment attribute?-->
 <!--Have to capture the shift here. The twist of the conceit he is describing, black turned fair.
     Power, may be helpful again here. The sonnet's give power to certain ideas by subverting expectations,

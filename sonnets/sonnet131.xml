@@ -4,20 +4,20 @@
     <number-title>Sonnet CXXXI</number-title>
 <author>Shakespeare</author>
 <body>
-<depiction role="villain">Thou art as tyrannous</depiction>, so as thou art,
-As those whose <depiction role="villain">beauties proudly make them cruel</depiction>;
-<tone vibe="romantic">For well thou know’st to <love action="verbal">my dear doting heart
-Thou art the <depiction role="beauty">fairest and most precious jewel.</depiction></love>
-Yet in good faith some say that thee behold,
-<violence type="insult">Thy face hath not the power to make love groan;</violence>
-<depiction role="weakness">To say they err I dare not be so bold,
-Although I swear it to myself alone.</depiction>
-And, to be sure that is not false I swear,
-A thousand groans, but thinking on thy face,
-One on another’s neck do witness bear
-<love action="verbal">Thy <color is="black" context="pure">black</color> is fairest in my judgment’s place.</love>
-In nothing art thou <color is="black" context="impure">black</color> <depiction role="villain">save in thy deeds,</depiction>
-And thence <violence type="insult">this slander as I think proceeds.</violence></tone>
+    <depiction role="villain">Thou art as tyrannous</depiction>, so as thou art,<l/><br/><br/>
+    As those whose <depiction role="villain">beauties proudly make them cruel</depiction>;<l/><br/><br/>
+    <tone vibe="romantic">For well thou know’st to <love action="verbal">my dear doting heart<l/><br/><br/>
+        Thou art the <depiction role="beauty">fairest and most precious jewel.</depiction></love><l/><br/><br/>
+        Yet in good faith some say that thee behold,<l/><br/><br/>
+        <violence type="insult">Thy face hath not the power to make love groan;</violence><l/><br/><br/>
+        <depiction role="weakness">To say they err I dare not be so bold,<l/><br/><br/>
+            Although I swear it to myself alone.</depiction><l/><br/><br/>
+        And, to be sure that is not false I swear,<l/><br/><br/>
+        A thousand groans, but thinking on thy face,<l/><br/><br/>
+        One on another’s neck do witness bear<l/><br/><br/>
+        <love action="verbal">Thy <color is="black" context="pure">black</color> is fairest in my judgment’s place.</love><l/><br/><br/>
+        In nothing art thou <color is="black" context="impure">black</color> <depiction role="villain">save in thy deeds,</depiction><l/><br/><br/>
+        And thence <violence type="insult">this slander as I think proceeds.</violence></tone><l/><br/><br/>
 </body>
 </poem>
 <!--He seems to be reffering to the lady of the previous Sonnet 130, but no gender is mentioned, gay? 

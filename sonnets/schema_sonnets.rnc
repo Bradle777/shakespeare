@@ -3,29 +3,31 @@ poem = element poem {number-title, author*, body}
 
 number-title = element number-title {text}
 author = element author {text}
-body = element body {tone* & depiction* & power* & color* & violence* & love* & chara* & text}
+body = element body {tone* & depiction* & power* & color* & violence* & love* & chara* & l* & br* & text}
 
 
 #START: all basic elements
 #Applied asterisks to pretty much everything, but should certain attributes be required?
-chara= element chara {name*, gender*, dress*, mixed{(tone*, depiction*, power*, color*, violence*, love*, chara*)*}} #Should some attributes be required?
-tone = element tone {vibe, mixed{(tone*, depiction*, power*, color*, violence*, love*, chara*)*}}
-depiction = element depiction {(role* & gender*), mixed{(tone*, depiction*, power*, color*, violence*, love*, chara*)*}}
-power = element power {(role* & gender*), mixed{(tone*, depiction*, power*, color*, violence*, love*, chara*)*}}
-color = element color {is, context, mixed{(tone*, depiction*, power*, color*, violence*, love*, chara*)*}}
-violence = element violence {type*, gender*, mixed{(tone*, depiction*, power*, color*, violence*, love*, chara*)*}}
-love = element love {action*, mixed{(tone*, depiction*, power*, color*, violence*, love*, chara*)*}}
+l = element l {empty}
+br = element br {empty}
+chara= element chara { name*, gender*, dress*, mixed{(l*, br*,tone*, depiction*, power*, color*, violence*, love*, chara*)*}} #Should some attributes be required?
+tone = element tone {vibe, mixed{(l*, br*, tone*, depiction*, power*, color*, violence*, love*, chara*)*}}
+depiction = element depiction {(role* & gender*), mixed{(l*, br*, tone*, depiction*, power*, color*, violence*, love*, chara*)*}}
+power = element power {(role* & gender*), mixed{(l*, br*, tone*, depiction*, power*, color*, violence*, love*, chara*)*}}
+color = element color {is, context, l*, br*, mixed{(tone*, depiction*, power*, color*, violence*, love*, chara*)*}}
+violence = element violence {type*, gender*, mixed{(l*, br*, tone*, depiction*, power*, color*, violence*, love*, chara*)*}}
+love = element love {action*, mixed{(l*, br*, tone*, depiction*, power*, color*, violence*, love*, chara*)*}}
 #END: all basic elements
 
 
 #START: all the attributes
-name = attribute name {text}
-gender = attribute gender {"male" | "female"}
+name = attribute name {text, l*, br*}
+gender = attribute gender {"male" | "female" | "???"}
 dress = attribute dress {"male" | "female"}
-role = attribute role {text}
+role = attribute role {text, l*, br*}
 vibe = attribute vibe {text}
-is = attribute is {text}
-context = attribute context {text}
-action = attribute action {text}
-type = attribute type {text}
+is = attribute is {text, l*, br*}
+context = attribute context {text, l*, br*}
+action = attribute action {text, l*, br*}
+type = attribute type {text, l*, br*}
 #END: all the attributes

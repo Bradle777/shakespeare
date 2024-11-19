@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="schema_sonnets.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
-<number-title>Sonnet 132</number-title>
-<author>Shakespeare</author>
-<body>
-<love action="love">Thine eyes I love,</love> and they, as pitying me,
-<tone vibe="sad">Knowing thy heart torment me with disdain,
-Have put on <color is="black" context="grief">black</color>, and loving mourners be,
-<depiction role="villain">Looking with pretty ruth upon my pain.</depiction>
-And truly not the morning sun of heaven
-Better becomes the <color is="gray" context="appearance">gray</color> cheeks of the east,
-Nor that full star that ushers in the even
-Doth half that glory to the sober west
-As those two mourning eyes become thy face.
-O, let it then as well beseem thy heart
-To mourn for me, since mourning doth thee grace,
-And suit thy pity like in every part.</tone>
-Then will I swear beauty herself is <color is="black" context="race">black</color>,
-And all <depiction role="impure">they foul that thy complexion lack.
-</depiction></body>
+    <number-title>Sonnet 132</number-title>
+    <author>Shakespeare</author>
+    <body>
+        <love action="love">Thine eyes I love,</love> and they, as pitying me, <l/><br/><br/>
+        <tone vibe="sad">Knowing thy heart torment me with disdain, <l/><br/><br/>Have put on <color
+                is="black" context="grief">black</color>, and loving mourners be,<l/><br/><br/>
+            <depiction role="villain">Looking with pretty ruth upon my
+            pain.</depiction><l/><br/><br/> And truly not the morning sun of heaven <l/><br/><br/>
+            Better becomes the <color is="gray" context="appearance">gray</color> cheeks of the
+            east, <l/><br/><br/> Nor that full star that ushers in the even <l/><br/><br/> Doth half
+            that glory to the sober west <l/><br/><br/> As those two mourning eyes become thy face.
+            <l/><br/><br/> O, let it then as well beseem thy heart <l/><br/><br/> To mourn for me,
+            since mourning doth thee grace, <l/><br/><br/> And suit thy pity like in every
+            part.</tone>
+        <l/><br/><br/> Then will I swear beauty herself is <color is="black" context="race"
+            >black</color>,<l/><br/><br/> And all <depiction role="impure">they foul that thy
+            complexion lack.<l/><br/><br/>
+        </depiction></body>
 </poem>
 <!-- https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/read/132/ -->
 <!-- the whole sonnet seems to be about the lady previously mentioned mourning for him -->
