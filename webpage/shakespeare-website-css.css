@@ -107,6 +107,16 @@ h5 {
     padding:2px 5% 2px 5%;
 }
 
+h6 {
+    background-color: #5E6A8C;
+    font-size: 25px;
+    font-style: italic;
+    font-family: "apple chancery";
+    color: white;
+    margin-left: 20%;
+    margin-right: 24%;
+}
+
 p {
     background-color: #F2F2EB;
     color: #333333;
