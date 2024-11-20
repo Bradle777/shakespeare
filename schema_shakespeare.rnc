@@ -1,23 +1,20 @@
 start = play
 play = element play {meta, body}
 
-meta = element meta {created*, main_title, author, toc*, character_List, setting}
+meta = element meta {main_title, author, character_List, setting}
 body = element body {act+}
 
-created = element created {text}
 main_title = element main_title {text}
 author = element author {text}
-toc = element toc {act+ & scene+}
 character_List = element character_List {chara+ & text}
 setting = element setting {text}
 
-chara= element chara {name*, gender*, class*, dress*, text} #Should some attributes be required?
+chara= element chara {name*, gender*, text} #Should some attributes be required?
 
 
 #START: all the attributes
 name = attribute name {text}
 who = attribute who {text}
-class = attribute class {"group"} #Used in the charatcer list for groups of actors
 gender = attribute gender {"male" | "female"}
 number = attribute number {text}
 dress = attribute dress {"male" | "female"}
@@ -30,18 +27,18 @@ type = attribute type {text}
 #END: all the attributes
 
 act = element act {number & text & scene*} #Had to use & and text due to the toc
-scene = element scene {number, title*, mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*)*}}
+scene = element scene {number, title*, mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*, chara*)*}}
 title = element title {text}
 
 #START: all basic elements
 #Applied asterisks to pretty much everything, but should certain attributes be required?
 sp = element sp {who*, gender*, text}
-stage = element stage {mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*)*}}
-tone = element tone {vibe, mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*)*}}
-depiction = element depiction {(role* & gender*), mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*)*}}
-power = element power {(role* & gender*), mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*)*}}
-color = element color {is, context, mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*)*}}
-violence = element violence {type*, gender*, mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*)*}}
-love = element love {action*, mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*)*}}
+stage = element stage {mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*, chara*)*}}
+tone = element tone {vibe, mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*, chara*)*}}
+depiction = element depiction {(role* & gender*), mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*, chara*)*}}
+power = element power {(role* & gender*), mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*, chara*)*}}
+color = element color {is, context*, mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*, chara*)*}}
+violence = element violence {type*, gender*, mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*, chara*)*}}
+love = element love {action*, mixed{(stage*, sp*, tone*, depiction*, power*, color*, violence*, love*, chara*)*}}
 
 #END: all basic elements

@@ -10,7 +10,7 @@ body = element body {tone* & depiction* & power* & color* & violence* & love* & 
 #Applied asterisks to pretty much everything, but should certain attributes be required?
 l = element l {empty}
 br = element br {empty}
-chara= element chara { name*, gender*, dress*, mixed{(l*, br*,tone*, depiction*, power*, color*, violence*, love*, chara*)*}} #Should some attributes be required?
+chara= element chara { name*, gender*, mixed{(l*, br*,tone*, depiction*, power*, color*, violence*, love*, chara*)*}} #Should some attributes be required?
 tone = element tone {vibe, mixed{(l*, br*, tone*, depiction*, power*, color*, violence*, love*, chara*)*}}
 depiction = element depiction {(role* & gender*), mixed{(l*, br*, tone*, depiction*, power*, color*, violence*, love*, chara*)*}}
 power = element power {(role* & gender*), mixed{(l*, br*, tone*, depiction*, power*, color*, violence*, love*, chara*)*}}
@@ -23,7 +23,6 @@ love = element love {action*, mixed{(l*, br*, tone*, depiction*, power*, color*,
 #START: all the attributes
 name = attribute name {text, l*, br*}
 gender = attribute gender {"male" | "female" | "???"}
-dress = attribute dress {"male" | "female"}
 role = attribute role {text, l*, br*}
 vibe = attribute vibe {text}
 is = attribute is {text, l*, br*}

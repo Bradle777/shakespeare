@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="schema_shakespeare.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schema_shakespeare.rnc" type="application/relax-ng-compact-syntax"?>
 <play>
     <meta>
-        <created>1603</created>
         <main_title>OTHELLO, THE MOOR OF VENICE</main_title>
         <author>William Shakespeare</author>
     <!-- Mark-up thematic areas of focus: beginning/wedding, Iago/plotting, Othello/doubt, end/death -->
@@ -495,7 +494,7 @@ Of law and course of direct session
 Call thee to answer.</power>
 
 <sp who = "OTHELLO.">OTHELLO.</sp>
-<power type = "class" gender = "male">What if I do obey?
+<power role = "class" gender = "male">What if I do obey?
 How may the duke be therewith satisfied,
 Whose messengers are here about my side,
 Upon some present business of the state,
@@ -1373,8 +1372,8 @@ O most lame and impotent conclusion!—Do not learn of him, Emilia, though he be
 <sp who = "CASSIO.">CASSIO.</sp>
 He speaks home, madam. You may relish him more in the soldier than in the scholar.
 
-<!-- Change this to `<power type="aside">` ? Because aside is power granted to certain characters over others--><aside><sp who = "IAGO.">IAGO.</sp>
-<stage>[Aside.]</stage> He takes her by the palm. Ay, well said, whisper. With as little a web as this will I ensnare as great a fly as Cassio. Ay, smile upon her, do. I will gyve thee in thine own courtship. You say true, ’tis so, indeed. If such tricks as these strip you out of your lieutenantry, it had been better you had not kissed your three fingers so oft, which now again you are most apt to play the sir in. Very good; well kissed, an excellent courtesy! ’Tis so, indeed. Yet again your fingers to your lips? Would they were clyster-pipes for your sake!</aside>
+<!-- Change this to `<power role="aside">` ? Because aside is power granted to certain characters over others--><power role="aside"><sp who = "IAGO.">IAGO.</sp>
+<stage>[Aside.]</stage> He takes her by the palm. Ay, well said, whisper. With as little a web as this will I ensnare as great a fly as Cassio. Ay, smile upon her, do. I will gyve thee in thine own courtship. You say true, ’tis so, indeed. If such tricks as these strip you out of your lieutenantry, it had been better you had not kissed your three fingers so oft, which now again you are most apt to play the sir in. Very good; well kissed, an excellent courtesy! ’Tis so, indeed. Yet again your fingers to your lips? Would they were clyster-pipes for your sake!</power>
 <!--Mark asides!-->
 <stage>[Trumpets within.]</stage>
 The <depiction>Moor</depiction>! I know his trumpet.
@@ -1477,7 +1476,7 @@ I warrant thee. Meet me by and by at the citadel: I must fetch his necessaries a
 Adieu.
 <chara>[Exit.]</chara>
 
-<!-- Change this to `<power type="aside">` ? Because aside is power granted to certain characters over others--><aside><sp who = "IAGO.">IAGO.</sp>
+<!-- Change this to `<power role="aside">` ? Because aside is power granted to certain characters over others--><power role="aside"><sp who = "IAGO.">IAGO.</sp>
 That Cassio loves her, I do well believe it;
 That she loves him, ’tis apt, and of great credit:
 The <depiction role = "race">Moor</depiction>, howbeit that I endure him not,
@@ -1504,7 +1503,7 @@ Abuse him to the <depiction role = "race">Moor</depiction> in the rank garb
 For making him egregiously an ass
 And practicing upon his peace and quiet
 Even to madness.</violence> ’Tis here, but yet confus’d.
-Knavery’s plain face is never seen till us’d.</aside>
+Knavery’s plain face is never seen till us’d.</power>
 <stage>[Exit.]</stage>
     </scene>
     <scene number = "5">
