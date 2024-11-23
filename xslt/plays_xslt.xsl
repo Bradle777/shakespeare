@@ -65,6 +65,9 @@
     <xsl:template match="setting">
         <h5><xsl:apply-templates/></h5>
     </xsl:template>
+    <xsl:template match="chara">
+        <br/><xsl:apply-templates/><br/>
+    </xsl:template>
     
     <!--==========Creates text tag and specific scene and title tags========-->
     <xsl:template match="scene">

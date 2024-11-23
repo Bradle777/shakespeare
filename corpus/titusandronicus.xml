@@ -3,7 +3,7 @@
  <!-- 9/27 Added forematter info tags, and title tags for each scene, some color and depiction -->
 <?xml-model href="../schema_shakespeare.rnc" type="application/relax-ng-compact-syntax"?>
 <play>
-  <meta>
+  <meta>`
     <main_title>THE TRAGEDY OF TITUS ANDRONICUS</main_title>
 
     <author>William Shakespeare</author>
@@ -14,29 +14,29 @@
       <chara name="Marcus Andronicus" gender="male">MARCUS ANDRONICUS, Tribune of the People, and brother to Titus</chara>
      Sons to Titus Andronicus:
       <chara name="Lucius" gender="male">LUCIUS</chara>
-      QUINTUS
-      MARTIUS
-      MUTIUS
-      YOUNG LUCIUS, a boy, son to Lucius
-      PUBLIUS, son to Marcus Andronicus
+      <chara>QUINTUS</chara>
+      <chara>MARTIUS</chara>
+      <chara>MUTIUS</chara>
+      <chara>YOUNG LUCIUS, a boy, son to Lucius</chara>
+      <chara>PUBLIUS, son to Marcus Andronicus</chara>
      Kinsmen to Titus:
-      SEMPRONIUS
-      CAIUS
-      VALENTINE
-      AEMILIUS, a noble Roman
+      <chara>SEMPRONIUS</chara>
+      <chara>CAIUS</chara>
+      <chara>VALENTINE</chara>
+      <chara>AEMILIUS, a noble Roman</chara>
      Sons to Tamora:
-      ALARBUS
+      <chara>ALARBUS</chara>
       <chara name="Demetrius" gender="male">DEMETRIUS</chara>
       <chara name="Chiron" gender="male">CHIRON</chara>
       <chara name="Aaron" gender="male">AARON, a Moor, beloved by Tamora</chara>
-      A CAPTAIN
-      A MESSENGER
-      A CLOWN
+      <chara>A CAPTAIN</chara>
+      <chara>A MESSENGER</chara>
+      <chara>A CLOWN</chara>
       <chara name="Tamora" gender="female">TAMORA, of the Goths</chara>
       <chara name="Lavinia" gender="female">LAVINIA, daughter to Titus Andronicus</chara>
-      A NURSE, and a black CHILD
-      Romans and Goths, Senators, Tribunes, Officers, Soldiers, and
-     Attendants
+      <chara>A NURSE, and a black CHILD</chara>
+      <chara>Romans and Goths, Senators, Tribunes, Officers, Soldiers, and
+     Attendants</chara>
 </character_List>
 <setting>SCENE: Rome and the neighbourhood</setting>
 </meta>
@@ -1338,7 +1338,7 @@ execution, and TITUS going before, pleading</stage>
     And send it to the King: he for the same
     Will send thee hither both thy sons alive,
     And that shall be the ransom for their fault.
-  <sp who="Titus Andronicus" gender="male">TITUS.</sp><power role="patriarch">O gracious Emperor!</power><power role="weak" gender="male"> O gentle Aaron!</power>
+  <sp who="Titus Andronicus" gender="male">TITUS.</sp><power role="patriarch">O gracious Emperor!</power><power role="weakness" gender="male"> O gentle Aaron!</power>
     <depiction role="race">Did ever raven sing so like a lark</depiction>
     That gives sweet tidings of the sun's uprise?
     With all my heart I'll send the Emperor my hand.
@@ -1470,7 +1470,7 @@ me?
     The vow is made. Come, brother, take a head,
     And in this hand the other will I bear.
     And, Lavinia, thou shalt be employ'd in this;
-    Bear thou my hand, <depiction role="weak" gender="female">sweet wench</depiction>, between thy teeth.
+    Bear thou my hand, <depiction role="weakness" gender="female">sweet wench</depiction>, between thy teeth.
     As for thee, boy, go, get thee from my sight;
     Thou art an exile, and thou must not stay.
     Hie to the Goths and raise an army there;
