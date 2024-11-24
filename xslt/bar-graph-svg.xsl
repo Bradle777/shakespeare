@@ -16,12 +16,12 @@
         <xsl:variable name="distinctRoles" as="xs:string+" select="distinct-values($allRoles)"/>
         
         <xsl:variable name="max_height" as="xs:decimal" select="320"/>
-        <xsl:variable name="spacing" as="xs:decimal" select="68"/>
+        <xsl:variable name="spacing" as="xs:decimal" select="56"/>
         <xsl:variable name="max_width" as="xs:decimal" select="($spacing) * count($distinctRoles)"/>
         
         <svg>
             <svg height="{$max_height + 200}" width="{$max_width + 250}"
-                viewBox="-100 -{$max_height + 100} {$max_width + 200} {$max_height + 200}">
+                viewBox="-110 -{$max_height + 100} {$max_width + 200} {$max_height + 200}">
             
                 <!--MAIN TITLE--><text x="{-100 + ($max_width div 2.6)}" y="-{$max_height + 50}" style="font-size:25;font-weight:bolder;">Depiction as Associated with Gender</text>
                 <xsl:for-each select="0 to 4">
@@ -40,12 +40,12 @@
                 <xsl:variable name="position-of" as="xs:integer" select="position()"/>
                 
                 <xsl:variable name="xpos" as="xs:decimal" select="(($position-of -1) * $spacing) + ($spacing div 2)"/>
-                <xsl:variable name="bar-loc" as="xs:decimal" select="$xpos + ($spacing * 1.5)"/>
+                <xsl:variable name="bar-loc" as="xs:decimal" select="$xpos + ($spacing * 2)"/>
                 <xsl:variable name="ypos-male" as="xs:decimal" select="4 * count($MaleRoles[. eq current()])"/>
                 <xsl:variable name="ypos-female" as="xs:decimal" select="4 * count($FemaleRoles[. eq current()])"/>
                                 
                
-                <!--X_AXIS LABEL--><text x="{$bar-loc}" y="{1.4 * $max_height}" style="font-size:12;">
+                <!--X_AXIS LABEL--><text x="{$bar-loc}" y="{1.4 * $max_height}" style="font-size:10;">
                     <xsl:value-of select="."/>
                 </text>
                 <!-- You need to use current() instead of the dot after the 'eq' in the predicate below -->
