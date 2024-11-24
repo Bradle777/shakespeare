@@ -23,6 +23,13 @@
             <svg height="{$max_height + 200}" width="{$max_width + 250}"
                 viewBox="-110 -{$max_height + 100} {$max_width + 200} {$max_height + 200}">
             
+                <!--Key-->
+                <circle r="10" cx="{$max_width * .65}" cy="65" style="fill:purple;opacity:0.5;"/>
+                <text x="{($max_width * .65) + 12}" y="69">female</text>
+                <circle r="10" cx="{($max_width * .65) + 85}" cy="65" style="fill:orange;opacity:0.5;"/>
+                <text x="{($max_width * .65) + 85 + 12}" y="69">male</text>
+                
+                
                 <!--MAIN TITLE--><text x="{-100 + ($max_width div 2.6)}" y="-{$max_height + 50}" style="font-size:25;font-weight:bolder;">Depiction as Associated with Gender</text>
                 <xsl:for-each select="0 to 4">
                     <xsl:variable name="ruling_height" as="xs:double" select=". div 4 * $max_height"/>
