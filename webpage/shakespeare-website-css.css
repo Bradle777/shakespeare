@@ -164,13 +164,15 @@ div[class="scene"], div[class="meta"] {
     padding: 5px 5px 10px 5px;
 } 
 
-
-
 sp {
     font-weight: bold;
 }
 span[class="stage"] {
     font-style: italic;
+}
+
+span {
+    display: inline-block;
 }
 
 /* ======END Corpus styling===== */
