@@ -171,7 +171,7 @@ span[class="stage"] {
     font-style: italic;
 }
 
-span {
+span.class {
     display: inline-block;
 }
 
