@@ -3,7 +3,7 @@
  <!-- 9/27 Added forematter info tags, and title tags for each scene, some color and depiction -->
 <?xml-model href="../schema_shakespeare.rnc" type="application/relax-ng-compact-syntax"?>
 <play>
-  <meta>`
+  <meta>
     <main_title>THE TRAGEDY OF TITUS ANDRONICUS</main_title>
 
     <author>William Shakespeare</author>

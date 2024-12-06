@@ -9,7 +9,7 @@
     
     <xsl:template name="xsl:initial-template" match="$corpus">
         
-    
+    <!--SORT THE X AXIS, SKEWS MALE vs SKEWS FEMALE-->
         <xsl:variable name="allRoles" as="attribute(role)+" select="$corpus/descendant::depiction/@role"/>
         <xsl:variable name="MaleRoles" as="attribute(role)+" select="$corpus//depiction[@gender='male']/@role"/>
         <xsl:variable name="FemaleRoles" as="attribute(role)+" select="$corpus//depiction[@gender='female']/@role"/>
@@ -44,6 +44,8 @@
             
                         
             <xsl:for-each select="$distinctRoles">
+                <xsl:sort select="4 * count($FemaleRoles[. eq current()])"/>
+                
                 <xsl:variable name="position-of" as="xs:integer" select="position()"/>
                 
                 <xsl:variable name="xpos" as="xs:decimal" select="(($position-of -1) * $spacing) + ($spacing div 2)"/>
@@ -51,7 +53,6 @@
                 <xsl:variable name="ypos-male" as="xs:decimal" select="4 * count($MaleRoles[. eq current()])"/>
                 <xsl:variable name="ypos-female" as="xs:decimal" select="4 * count($FemaleRoles[. eq current()])"/>
                                 
-               
                 <!--X_AXIS LABEL--><text x="{$bar-loc}" y="{1.4 * $max_height}" style="font-size:10;">
                     <xsl:value-of select="."/>
                 </text>
