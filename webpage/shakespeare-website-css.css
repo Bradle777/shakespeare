@@ -129,7 +129,7 @@ p {
     padding: 5px 15px 5px 15px;
 }
 
-ul {
+ul, ol {
     background-color: #1F818C;
     color: white;
     margin: 15px 600px 0px 30px;
